@@ -1,0 +1,76 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"title": "Dark",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#FF6347",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#8A2BE2",
+					"name": "Accent Alt",
+					"slug": "accent-alt"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Contrast 3",
+					"slug": "contrast-3"
+				},
+				{
+					"color": "#D8E2EB",
+					"name": "Contrast 2",
+					"slug": "contrast-2"
+				},
+				{
+					"color": "#C0CEDA",
+					"name": "Contrast 1",
+					"slug": "contrast-1"
+				},
+				{
+					"color": "#A6B7C5",
+					"name": "Contrast 0",
+					"slug": "contrast-0"
+				},
+				{
+					"color": "#627382",
+					"name": "Base 2",
+					"slug": "base-2"
+				},
+				{
+					"color": "#45535F",
+					"name": "Base 1",
+					"slug": "base-1"
+				},
+				{
+					"color": "#171E24",
+					"name": "Base 0",
+					"slug": "base-0"
+				},
+				{
+					"name": "Transparent",
+					"color": "transparent",
+					"slug": "transparent"
+				},
+				{
+					"name": "Current Color",
+					"color": "currentColor",
+					"slug": "currentColor"
+				},
+				{
+					"name": "Inherit",
+					"color": "inherit",
+					"slug": "inherit"
+				},
+				{
+					"name": "Fixed Base",
+					"color": "#FFFFFE",
+					"slug": "fixed-base"
+				}
+			]
+		}
+	}
+}

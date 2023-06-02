@@ -1,0 +1,13 @@
+node_modules
+vendor/
+*.DS_Store
+*.zip
+*.rej
+**/*.map
+.ignore
+.github_token
+.vscode/*
+zip/*
+.vscode/launch.json
+noon.code-workspace
+pnpm-lock.yaml

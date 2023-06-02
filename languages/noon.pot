@@ -1,0 +1,822 @@
+# Copyright (C) 2023 PixelDima
+# This file is distributed under the GNU General Public License v2 or later..
+msgid ""
+msgstr ""
+"Project-Id-Version: Noon 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/noon\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-01T22:02:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: noon\n"
+
+#. Theme Name of the theme
+#: inc/modules/blocks/patterns.php:43
+msgid "Noon"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://pixeldima.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "A block theme."
+msgstr ""
+
+#. Author of the theme
+msgid "PixelDima"
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: inc/class-theme.php:120
+#: zip/noon/inc/class-theme.php:120
+msgid "The theme module %1$s does not implement the %2$s interface."
+msgstr ""
+
+#: inc/class-theme.php:179
+#: inc/class-theme.php:189
+#: zip/noon/inc/class-theme.php:179
+#: zip/noon/inc/class-theme.php:189
+msgid "Something went wrong."
+msgstr ""
+
+#. translators: %s: slug
+#: inc/class-theme.php:235
+#: zip/noon/inc/class-theme.php:235
+msgid "No theme module with the slug %s exists."
+msgstr ""
+
+#: inc/modules/blocks/patterns.php:38
+#: zip/noon/inc/modules/blocks/patterns.php:38
+msgid "Noon Patterns"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:39
+#: zip/noon/inc/modules/blocks/styles.php:39
+msgid "Secondary"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:42
+#: inc/modules/blocks/styles.php:45
+#: zip/noon/inc/modules/blocks/styles.php:42
+#: zip/noon/inc/modules/blocks/styles.php:45
+msgid "Button"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:48
+#: inc/modules/blocks/styles.php:51
+#: zip/noon/inc/modules/blocks/styles.php:48
+#: zip/noon/inc/modules/blocks/styles.php:51
+msgid "No Margin"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:54
+#: zip/noon/inc/modules/blocks/styles.php:54
+msgid "Dotted"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:57
+#: inc/modules/blocks/styles.php:61
+#: zip/noon/inc/modules/blocks/styles.php:57
+#: zip/noon/inc/modules/blocks/styles.php:61
+msgid "Noon Shadow"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:58
+#: inc/modules/blocks/styles.php:62
+#: zip/noon/inc/modules/blocks/styles.php:58
+#: zip/noon/inc/modules/blocks/styles.php:62
+msgid "Solid Shadow"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:65
+#: inc/modules/blocks/styles.php:68
+#: zip/noon/inc/modules/blocks/styles.php:65
+#: zip/noon/inc/modules/blocks/styles.php:68
+msgid "Contrast Style"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:72
+msgid "Tags Style"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:75
+#: zip/noon/inc/modules/blocks/styles.php:75
+msgid "Transparent"
+msgstr ""
+
+#: inc/modules/blocks/styles.php:76
+#: zip/noon/inc/modules/blocks/styles.php:76
+msgid "Default"
+msgstr ""
+
+#. translators: %s: stylesheet handle
+#: inc/modules/styles/style.php:225
+#: zip/noon/inc/modules/styles/style.php:225
+msgid "Invalid theme stylesheet handle: %s"
+msgstr ""
+
+#. translators: 1: classname/type of the variable, 2: interface name
+#: inc/modules/template_tags.php:54
+#: zip/noon/inc/modules/template_tags.php:54
+msgid "The theme templating module %1$s does not implement the %2$s interface."
+msgstr ""
+
+#. translators: %s: template tag name
+#: inc/modules/template_tags.php:81
+#: zip/noon/inc/modules/template_tags.php:81
+msgid "The template tag %s does not exist."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: module class name
+#: inc/modules/template_tags.php:110
+#: zip/noon/inc/modules/template_tags.php:110
+msgid "The template tag method %1$s registered by theme module %2$s must either be a callable or an array."
+msgstr ""
+
+#. translators: 1: template tag method name, 2: module class name
+#: inc/modules/template_tags.php:121
+#: zip/noon/inc/modules/template_tags.php:121
+msgid "The template tag method %1$s registered by theme module %2$s conflicts with an already registered template tag of the same name."
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404 error content."
+msgstr ""
+
+#: patterns/blog-classic.php
+msgctxt "Pattern title"
+msgid "Blog classic"
+msgstr ""
+
+#: patterns/blog-post-card.php
+msgctxt "Pattern title"
+msgid "Blog Post Card"
+msgstr ""
+
+#: patterns/blog-post-columns.php
+msgctxt "Pattern title"
+msgid "Blog Post Columns"
+msgstr ""
+
+#: patterns/call-to-action-card-boxed.php
+msgctxt "Pattern title"
+msgid "Call to action card boxed"
+msgstr ""
+
+#: patterns/call-to-action-card-boxed.php
+msgctxt "Pattern description"
+msgid "You can use this pattern to create a call to action card with a boxed layout."
+msgstr ""
+
+#: patterns/call-to-action-card.php
+msgctxt "Pattern title"
+msgid "Call To Action Card"
+msgstr ""
+
+#: patterns/call-to-action-full-width-dark.php
+msgctxt "Pattern title"
+msgid "Call-to-action full width. Dark"
+msgstr ""
+
+#: patterns/call-to-action-full-width.php
+msgctxt "Pattern title"
+msgid "Call-to-action full width."
+msgstr ""
+
+#: patterns/faq.php
+msgctxt "Pattern title"
+msgid "FAQ"
+msgstr ""
+
+#: patterns/feature-boxes-contrast.php
+msgctxt "Pattern title"
+msgid "Feature Boxes Contrast"
+msgstr ""
+
+#: patterns/feature-boxes.php
+msgctxt "Pattern title"
+msgid "Feature Boxes"
+msgstr ""
+
+#: patterns/feature-icon-boxe.php
+msgctxt "Pattern title"
+msgid "Feature Icon Boxe"
+msgstr ""
+
+#: patterns/featured-logos.php
+msgctxt "Pattern title"
+msgid "Featured logos"
+msgstr ""
+
+#: patterns/footer-base-with-shadow.php
+msgctxt "Pattern title"
+msgid "footer base with shadow."
+msgstr ""
+
+#: patterns/footer-base.php
+msgctxt "Pattern title"
+msgid "footer base."
+msgstr ""
+
+#: patterns/footer-centered-base.php
+msgctxt "Pattern title"
+msgid "footer centered base."
+msgstr ""
+
+#: patterns/footer-centered-contrast.php
+msgctxt "Pattern title"
+msgid "footer centered contrast."
+msgstr ""
+
+#: patterns/footer-contrast.php
+msgctxt "Pattern title"
+msgid "footer Contrast"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "footer default."
+msgstr ""
+
+#: patterns/footer-minimal-base.php
+msgctxt "Pattern title"
+msgid "footer minimal base."
+msgstr ""
+
+#: patterns/footer-minimal-contrast.php
+msgctxt "Pattern title"
+msgid "footer minimal contrast."
+msgstr ""
+
+#: patterns/general-pricing-four-columns.php
+msgctxt "Pattern title"
+msgid "Pricing table with heading, list, buttons."
+msgstr ""
+
+#: patterns/general-testimonials-boxed.php
+msgctxt "Pattern title"
+msgid "Boxed Testimonials."
+msgstr ""
+
+#: patterns/general-testimonials-creative.php
+msgctxt "Pattern title"
+msgid "Creative Testimonials."
+msgstr ""
+
+#: patterns/general-testimonials.php
+msgctxt "Pattern title"
+msgid "Testimonials."
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "header default"
+msgstr ""
+
+#: patterns/header-transparent.php
+msgctxt "Pattern title"
+msgid "header transparent"
+msgstr ""
+
+#: patterns/hero-call-to-action-buttons.php
+msgctxt "Pattern title"
+msgid "Hero Call To Action Buttons"
+msgstr ""
+
+#: patterns/hero-start.php
+msgctxt "Pattern title"
+msgid "Hero Start"
+msgstr ""
+
+#: patterns/hero-video.php
+msgctxt "Pattern title"
+msgid "Hero Video"
+msgstr ""
+
+#: patterns/image-and-numbered-features.php
+msgctxt "Pattern title"
+msgid "Image and Numbered Features"
+msgstr ""
+
+#: patterns/image-and-text-and-columns.php
+msgctxt "Pattern title"
+msgid "Image and Text and Columns"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "About Page"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern description"
+msgid "A full page design for an About page"
+msgstr ""
+
+#: patterns/page-home.php
+msgctxt "Pattern title"
+msgid "Homepage."
+msgstr ""
+
+#: patterns/page-home.php
+msgctxt "Pattern description"
+msgid "A full page design for a Homepage"
+msgstr ""
+
+#: patterns/page-title-archive.php
+msgctxt "Pattern title"
+msgid "Page Title Archive"
+msgstr ""
+
+#: patterns/page-title-search.php
+msgctxt "Pattern title"
+msgid "Page Title Search"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "page title"
+msgstr ""
+
+#: patterns/post-navigation.php
+msgctxt "Pattern title"
+msgid "Post navigation"
+msgstr ""
+
+#: patterns/pricing-table-with-heading-list-buttons-contrast.php
+msgctxt "Pattern title"
+msgid "Pricing table with heading, list, buttons. contrast"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:18
+#: zip/noon/patterns/sidebar.php:18
+msgid "Need Assistance?"
+msgstr ""
+
+#: patterns/sidebar.php:40
+#: zip/noon/patterns/sidebar.php:40
+msgid "Discover Our Theme"
+msgstr ""
+
+#: patterns/sidebar.php:47
+#: zip/noon/patterns/sidebar.php:47
+msgid "Latest Articles"
+msgstr ""
+
+#: patterns/sidebar.php:71
+#: zip/noon/patterns/sidebar.php:71
+msgid "Stay Connected"
+msgstr ""
+
+#: patterns/sidebar.php:85
+#: zip/noon/patterns/sidebar.php:85
+msgid "Categories"
+msgstr ""
+
+#: patterns/single-testimonials.php
+msgctxt "Pattern title"
+msgid "Single Testimonials"
+msgstr ""
+
+#: patterns/team-members.php
+msgctxt "Pattern title"
+msgid "Team Members"
+msgstr ""
+
+#: patterns/text-and-button-and-columns.php
+msgctxt "Pattern title"
+msgid "Text and Button and Columns"
+msgstr ""
+
+#: patterns/text-and-image-columns-with-list.php
+msgctxt "Pattern title"
+msgid "Text and Image Columns With List"
+msgstr ""
+
+#: patterns/text-call-to-action.php
+msgctxt "Pattern title"
+msgid "Text Call To Action"
+msgstr ""
+
+#: zip/noon/inc/modules/blocks/patterns.php:43
+msgid "Noon (Noon)"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent Alt"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast 3"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast 2"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast 1"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast 0"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base 2"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base 1"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base 0"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fixed Base"
+msgstr ""
+
+#: styles/nature.json
+msgctxt "Style variation name"
+msgid "Nature"
+msgstr ""
+
+#: styles/noon-light.json
+msgctxt "Style variation name"
+msgid "Noon Light"
+msgstr ""
+
+#: styles/ocean.json
+msgctxt "Style variation name"
+msgid "Ocean"
+msgstr ""
+
+#: styles/pastel.json
+msgctxt "Style variation name"
+msgid "Pastel"
+msgstr ""
+
+#: styles/rtl.json
+msgctxt "Style variation name"
+msgid "RTL"
+msgstr ""
+
+#: styles/rtl.json
+msgctxt "Font family name"
+msgid "Sans"
+msgstr ""
+
+#: styles/rtl.json
+msgctxt "Font family name"
+msgid "Mono"
+msgstr ""
+
+#: styles/rtl.json
+#: theme.json
+msgctxt "Font family name"
+msgid "Serif"
+msgstr ""
+
+#: styles/sunset.json
+msgctxt "Style variation name"
+msgid "Sunset"
+msgstr ""
+
+#: styles/sweet-corn.json
+msgctxt "Style variation name"
+msgid "Sweet Corn"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "No Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single + Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page [Without Title]"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Black and White"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Accent and White"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Accent alt and White"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Spotify"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "vintage"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Accent to Contrast"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Noon #1"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Body"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-xs"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-sm"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-base"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-lg"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-2xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-3xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-4xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-5xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-6xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-7xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-8xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "text-9xl"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Loop"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Navigation"
+msgstr ""

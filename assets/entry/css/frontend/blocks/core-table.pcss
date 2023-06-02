@@ -1,0 +1,45 @@
+.wp-block-table {
+	&.is-style-stripes {
+		border-bottom: none;
+	}
+
+	table {
+		border-collapse: collapse;
+	}
+
+	thead {
+		border-bottom: 3px solid var(--wp--preset--color--contrast-3);
+	}
+
+	tfoot {
+		border-top: 3px solid var(--wp--preset--color--contrast-3);
+	}
+
+	td,
+	th,
+	tr,
+	&.is-style-stripes {
+		td,
+		th,
+		tr {
+			border: 1px solid var(--wp--preset--color--contrast-3);
+		}
+	}
+
+	th {
+		font-weight: var(--wp--custom--font-weight--4);
+	}
+
+	td,
+	th {
+		padding: 5px;
+	}
+
+	&.is-style-stripes {
+		tbody {
+			tr:nth-child(odd) {
+				background-color: var(--wp--preset--color--base-2);
+			}
+		}
+	}
+}

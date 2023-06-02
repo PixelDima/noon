@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+a,
+button,
+input:focus,
+input[type='button'],
+input[type='submit'],
+textarea:focus,
+.wp-element-button {
+	transition: all 0.2s ease-in-out;
+}
+
+a,
+a:focus,
+a:hover,
+a:not(.wp-element-button) {
+	text-decoration-thickness: 1px;
+}
+
+b,
+strong {
+	font-weight: var(--wp--custom--font-weight--5);
+}
+
+.aspect-square {
+    aspect-ratio: 1 / 1;
+}
+.aspect-video {
+	aspect-ratio: 16 / 9;
+}
+.aspect-auto {
+	aspect-ratio: auto;
+}

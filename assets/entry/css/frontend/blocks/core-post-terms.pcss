@@ -1,0 +1,31 @@
+.is-style {
+	&-tags {
+		display: inline-block;
+		color: var(--wp--preset--color--fixed-base);
+		a {
+			color: var(--wp--preset--color--fixed-base);
+			margin: 0 0.3rem 0.3rem 0;
+			padding: 0.5rem 0.7rem;
+			border-radius: 0.3rem;
+			background-color: var(--wp--preset--color--accent);
+			border-radius: 3px;
+			transition: all 0.2s ease-in-out;
+			&:hover {
+				background-color: var(--wp--preset--color--accent-alt);
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+.editor-styles-wrapper {
+	.wp-block-post-terms.is-style-tags {
+		color: var(--wp--preset--color--fixed-base);
+		margin: 0 0.3rem 0.3rem 0;
+		padding: 0.3rem 0.7rem;
+		border-radius: 0.3rem;
+		background-color: var(--wp--preset--color--accent);
+		border-radius: 4px;
+		line-height: 24px;
+	}
+}

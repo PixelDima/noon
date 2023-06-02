@@ -1,0 +1,23 @@
+
+
+:root {}
+
+/* Calendar
+--------------------------------------------- */
+
+.wp-block-calendar table caption,
+		.wp-block-calendar table tbody {
+			color: var(--wp--preset--color--contrast-3);
+		}
+
+.wp-block-calendar table th {
+			background-color: var(--wp--preset--color--contrast-3);
+			color: var(--wp--preset--color--base-0);
+		}
+
+.wp-block-calendar tbody td,
+	.wp-block-calendar th {
+		border: 1px solid var(--wp--preset--color--contrast-3);
+		padding: 10px;
+	}
+

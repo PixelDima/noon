@@ -1,0 +1,48 @@
+
+:root {}
+/* Standardize non-editor button styles
+--------------------------------------------- */
+.is-style-wp-block-button__link {
+	background-color: var(--wp--preset--color--accent);
+	color: var(--wp--preset--color--fixed-base);
+	border: none;
+	border-radius: 5px;
+    padding-top: var(--wp--preset--spacing--small);
+    padding-right: var(--wp--preset--spacing--medium);
+    padding-bottom: var(--wp--preset--spacing--small);
+    padding-left: var(--wp--preset--spacing--medium);
+    font-family: inherit;
+    font-size: var(--wp--preset--font-size--text-base);
+    font-weight: var(--wp--custom--font-weight--4);
+    line-height: inherit;
+}
+/* Button - Outline Style
+--------------------------------------------- */
+.is-style-wp-block-button__link,
+.wp-block-button .wp-block-button__link {
+	--duration: 0.320s;
+	--move-hover: -4px;
+	--shadow: 0 2px 8px -1px hsla(0, 0%, 0%, 0.1);
+	--shadow-hover: 0 4px 20px -2px hsla(0, 0%, 0%, 0.2);
+
+	transform: translateY(var(--y)) translateZ(0);
+	transition: transform var(--duration) ease, box-shadow var(--duration) ease;
+	box-shadow: var(--shadow);
+}
+.is-style-wp-block-button__link:hover, .wp-block-button .wp-block-button__link:hover {
+		--y: var(--move-hover);
+		--shadow: var(--shadow-hover);
+	}
+/* Button - Secondary Style
+--------------------------------------------- */
+body .editor-styles-wrapper .is-style-secondary-button .wp-element-button,
+.is-style-secondary-button .wp-element-button,
+.wp-block.is-style-secondary-button .wp-element-button {
+	background-color: var(--wp--preset--color--contrast-3);
+	color: var(--wp--preset--color--base-0);
+}
+.is-style-secondary-button:hover .wp-element-button,
+.wp-block.is-style-secondary-button:hover .wp-element-button {
+	background-color: var(--wp--preset--color--contrast-2);
+}
+

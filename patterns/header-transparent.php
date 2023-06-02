@@ -1,0 +1,33 @@
+<?php
+/**
+ * Title: header transparent
+ * Slug: noon/header-transparent
+ * Description:
+ * Categories: header
+ * Keywords:
+ * Viewport Width: 1280
+ * Block Types: core/template-part/header
+ */
+
+?>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","right":"var:preset|spacing|small","left":"var:preset|spacing|small"},"margin":{"top":"0px"},"blockGap":"0"}},"backgroundColor":"transparent","textColor":"contrast-3","className":"is-style-default is-style-header-transparent","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default is-style-header-transparent has-contrast-3-color has-transparent-background-color has-text-color has-background" style="margin-top:0px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide"><!-- wp:site-logo {"width":45,"shouldSyncIcon":true} /-->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group">
+<!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap"},"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"blockGap":"40px"}},"fontSize":"tiny-plus"} -->
+	<!-- wp:navigation-link {"label":"Landing","url":"#","kind":"custom","isTopLevelLink":true} /-->
+	<!-- wp:navigation-submenu {"label":"Pages","url":"#","kind":"custom","isTopLevelItem":true} -->
+		<!-- wp:navigation-link {"label":"About us","description":"Get to know us better","url":"#","kind":"custom","isTopLevelLink":false} /-->
+		<!-- wp:navigation-link {"label":"Services","description":"Explore what we offer","url":"#","kind":"custom","isTopLevelLink":false} /-->
+		<!-- wp:navigation-link {"label":"Contact us","description":"Let's get in touch","url":"#","kind":"custom","isTopLevelLink":false} /-->
+	<!-- /wp:navigation-submenu -->
+	<!-- wp:navigation-link {"label":"Blog","url":"#","kind":"custom","isTopLevelLink":true} /-->
+	<!-- wp:navigation-link {"label":"Gallery","url":"#","kind":"custom","isTopLevelLink":true} /-->
+	<!-- wp:navigation-link {"label":"Contact us","url":"#","kind":"custom","isTopLevelLink":true,"className":""} /-->
+<!-- /wp:navigation -->
+</div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

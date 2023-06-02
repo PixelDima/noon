@@ -1,0 +1,74 @@
+
+
+		:root {}
+
+		.edit-post-visual-editor input,
+	.edit-post-visual-editor select,
+	.edit-post-visual-editor textarea,
+	.edit-post-visual-editor .wp-block-search__input {
+		background-color: var(--wp--preset--color--base-0);
+		border: 1px solid var(--wp--preset--color--base-2);
+		border-radius: 4px;
+		color: var(--wp--preset--color--contrast-3);
+		font-family: var(--wp--preset--font-family--body);
+		font-size: var(--wp--preset--font-size--text-xl);
+		font-weight: var(--wp--custom--font-weight--3);
+		line-height: var(--wp--custom--line-height--leading-relaxed);
+		padding: 10px 20px;
+		width: 100%;
+	}
+
+		.edit-post-visual-editor input:focus, .edit-post-visual-editor select:focus, .edit-post-visual-editor textarea:focus, .edit-post-visual-editor .wp-block-search__input:focus {
+			color: var(--wp--preset--color--contrast-3);
+			background-color: var(--wp--preset--color--base-2);
+			outline: none;
+		}
+
+		.edit-post-visual-editor input[type='checkbox'],
+		.edit-post-visual-editor input[type='image'],
+		.edit-post-visual-editor input[type='radio'],
+		.edit-post-visual-editor select[type='checkbox'],
+		.edit-post-visual-editor select[type='image'],
+		.edit-post-visual-editor select[type='radio'],
+		.edit-post-visual-editor textarea[type='checkbox'],
+		.edit-post-visual-editor textarea[type='image'],
+		.edit-post-visual-editor textarea[type='radio'],
+		.edit-post-visual-editor .wp-block-search__input[type='checkbox'],
+		.edit-post-visual-editor .wp-block-search__input[type='image'],
+		.edit-post-visual-editor .wp-block-search__input[type='radio'] {
+			width: auto;
+		}
+
+		.edit-post-visual-editor input[type='button'],
+		.edit-post-visual-editor input[type='email'],
+		.edit-post-visual-editor input[type='search'],
+		.edit-post-visual-editor input[type='submit'],
+		.edit-post-visual-editor input[type='text'],
+		.edit-post-visual-editor select[type='button'],
+		.edit-post-visual-editor select[type='email'],
+		.edit-post-visual-editor select[type='search'],
+		.edit-post-visual-editor select[type='submit'],
+		.edit-post-visual-editor select[type='text'],
+		.edit-post-visual-editor textarea[type='button'],
+		.edit-post-visual-editor textarea[type='email'],
+		.edit-post-visual-editor textarea[type='search'],
+		.edit-post-visual-editor textarea[type='submit'],
+		.edit-post-visual-editor textarea[type='text'],
+		.edit-post-visual-editor .wp-block-search__input[type='button'],
+		.edit-post-visual-editor .wp-block-search__input[type='email'],
+		.edit-post-visual-editor .wp-block-search__input[type='search'],
+		.edit-post-visual-editor .wp-block-search__input[type='submit'],
+		.edit-post-visual-editor .wp-block-search__input[type='text'] {
+			-webkit-appearance: none;
+		}
+	.edit-post-visual-editor ::-moz-placeholder {
+		color: var(--wp--preset--color--contrast-3);
+		font-size: var(--wp--preset--font-size--text-lg);
+		opacity: 0.5;
+	}
+	.edit-post-visual-editor ::placeholder {
+		color: var(--wp--preset--color--contrast-3);
+		font-size: var(--wp--preset--font-size--text-lg);
+		opacity: 0.5;
+	}
+

@@ -1,0 +1,28 @@
+
+:root {}
+/* Quote
+--------------------------------------------- */
+blockquote.wp-block-quote {
+	position: relative;
+}
+blockquote.wp-block-quote cite {
+		opacity: 0.7;
+	}
+blockquote.wp-block-quote:after {
+	top: 20px;
+	left: 0;
+    transform: translate(-50%,-50%);
+}
+blockquote.wp-block-quote::after {
+		content: '"';
+		position: absolute;
+		font-weight: bold;
+		text-align: center;
+		font-size: 60px;
+		line-height: 1;
+		width: 40px;
+		height: 40px;
+		color: var(--wp--preset--color--accent);
+		background-color: var(--wp--preset--color--base-0);
+	}
+

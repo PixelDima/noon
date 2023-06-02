@@ -1,0 +1,170 @@
+
+
+:root {}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+a,
+button,
+input:focus,
+input[type='button'],
+input[type='submit'],
+textarea:focus,
+.wp-element-button {
+	transition: all 0.2s ease-in-out;
+}
+
+a,
+a:focus,
+a:hover,
+a:not(.wp-element-button) {
+	text-decoration-thickness: 1px;
+}
+
+b,
+strong {
+	font-weight: var(--wp--custom--font-weight--5);
+}
+
+.aspect-square {
+    aspect-ratio: 1 / 1;
+}
+
+.aspect-video {
+	aspect-ratio: 16 / 9;
+}
+
+.aspect-auto {
+	aspect-ratio: auto;
+}
+
+input,
+select,
+textarea,
+.wp-block-search__input {
+	background-color: var(--wp--preset--color--base-0);
+	border: 1px solid var(--wp--preset--color--base-2);
+	border-radius: 4px;
+	color: var(--wp--preset--color--contrast-3);
+	font-family: var(--wp--preset--font-family--body);
+	font-size: var(--wp--preset--font-size--text-xl);
+	font-weight: var(--wp--custom--font-weight--3);
+	line-height: var(--wp--custom--line-height--leading-relaxed);
+	padding: 10px 20px;
+	width: 100%;
+}
+
+input:focus, select:focus, textarea:focus, .wp-block-search__input:focus {
+		color: var(--wp--preset--color--contrast-3);
+		background-color: var(--wp--preset--color--base-2);
+		outline: none;
+	}
+
+input[type='checkbox'],
+	input[type='image'],
+	input[type='radio'],
+	select[type='checkbox'],
+	select[type='image'],
+	select[type='radio'],
+	textarea[type='checkbox'],
+	textarea[type='image'],
+	textarea[type='radio'],
+	.wp-block-search__input[type='checkbox'],
+	.wp-block-search__input[type='image'],
+	.wp-block-search__input[type='radio'] {
+		width: auto;
+	}
+
+input[type='button'],
+	input[type='email'],
+	input[type='search'],
+	input[type='submit'],
+	input[type='text'],
+	select[type='button'],
+	select[type='email'],
+	select[type='search'],
+	select[type='submit'],
+	select[type='text'],
+	textarea[type='button'],
+	textarea[type='email'],
+	textarea[type='search'],
+	textarea[type='submit'],
+	textarea[type='text'],
+	.wp-block-search__input[type='button'],
+	.wp-block-search__input[type='email'],
+	.wp-block-search__input[type='search'],
+	.wp-block-search__input[type='submit'],
+	.wp-block-search__input[type='text'] {
+		-webkit-appearance: none;
+	}
+
+::-moz-placeholder {
+	color: var(--wp--preset--color--contrast-3);
+	font-size: var(--wp--preset--font-size--text-lg);
+	opacity: 0.5;
+}
+
+::placeholder {
+	color: var(--wp--preset--color--contrast-3);
+	font-size: var(--wp--preset--font-size--text-lg);
+	opacity: 0.5;
+}
+
+/**
+ * Theme Styles
+ * It load on both frontend and backend
+ * @package WordPress
+ * @subpackage Noon
+ * @since Noon 1.0
+ */
+
+/* Helper CSS Classes in Frontend and backend*/
+
+.is-style-m-0 {
+		margin: 0;
+	}
+
+.is-style-noon-shadow {
+		box-shadow: var(--wp--preset--shadow--noon);
+	}
+
+.is-style-noon-solid-shadow {
+		box-shadow: var(--wp--preset--shadow--noon-solid);
+	}
+
+.is-style-rounded {
+		border-radius: 99px;
+	}
+
+.is-style-max-w-3xl {
+		max-width: 48rem;
+	}
+
+.is-style-max-w-4xl {
+		max-width: 56rem;
+	}
+
+.mb-small {
+	margin-bottom: var(--wp--preset--spacing--small);
+}
+
+.mb-medium {
+	margin-bottom: var(--wp--preset--spacing--medium);
+}
+
+.mb-large {
+	margin-bottom: var(--wp--preset--spacing--large);
+}
+
+.mb-x-large {
+	margin-bottom: var(--wp--preset--spacing--x-large);
+}
+

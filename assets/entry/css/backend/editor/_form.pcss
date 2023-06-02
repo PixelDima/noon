@@ -1,0 +1,43 @@
+.edit-post-visual-editor {
+	input,
+	select,
+	textarea,
+	.wp-block-search__input {
+		background-color: var(--wp--preset--color--base-0);
+		border: 1px solid var(--wp--preset--color--base-2);
+		border-radius: 4px;
+		color: var(--wp--preset--color--contrast-3);
+		font-family: var(--wp--preset--font-family--body);
+		font-size: var(--wp--preset--font-size--text-xl);
+		font-weight: var(--wp--custom--font-weight--3);
+		line-height: var(--wp--custom--line-height--leading-relaxed);
+		padding: 10px 20px;
+		width: 100%;
+
+		&:focus {
+			color: var(--wp--preset--color--contrast-3);
+			background-color: var(--wp--preset--color--base-2);
+			outline: none;
+		}
+
+		&[type='checkbox'],
+		&[type='image'],
+		&[type='radio'] {
+			width: auto;
+		}
+
+		&[type='button'],
+		&[type='email'],
+		&[type='search'],
+		&[type='submit'],
+		&[type='text'] {
+			-webkit-appearance: none;
+		}
+	}
+
+	::placeholder {
+		color: var(--wp--preset--color--contrast-3);
+		font-size: var(--wp--preset--font-size--text-lg);
+		opacity: 0.5;
+	}
+}
