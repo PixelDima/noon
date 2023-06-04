@@ -21,11 +21,11 @@
 	<!-- wp:navigation-link {"label":"<?php echo __( 'Home', 'noon' ); ?>  ","url":"/","kind":"custom","isTopLevelLink":true} /-->
 	<!-- wp:navigation-submenu {"label":"<?php echo __( 'Pages', 'noon' ); ?>","url":"#","kind":"custom","isTopLevelItem":true} -->
 	<!-- wp:navigation-link {"label":"<?php echo __( 'About us', 'noon' ); ?>","description":"<?php echo __( 'Peek behind the curtain' ); ?>","url":"/about-us","kind":"custom","isTopLevelLink":false} /-->
-	<!-- wp:navigation-link {"label":"<?php echo __( 'Services', 'noon' ); ?>","description":"<?php echo __( 'Discover our service' ); ?>","url":"#","kind":"custom","isTopLevelLink":false} /-->
-	<!-- wp:navigation-link {"label":"<?php echo __( 'Contact us', 'noon' ); ?>","description":"<?php echo __( 'Drop us a message' ); ?>","url":"#","kind":"custom","isTopLevelLink":false} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Services', 'noon' ); ?>","description":"<?php echo __( 'Discover our service' ); ?>","url":"/services","kind":"custom","isTopLevelLink":false} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Contact us', 'noon' ); ?>","description":"<?php echo __( 'Drop us a message' ); ?>","url":"/contact-us","kind":"custom","isTopLevelLink":false} /-->
 	<!-- /wp:navigation-submenu -->
 	<!-- wp:navigation-link {"label":"<?php echo __( 'Blog', 'noon' ); ?>","url":"/blog","kind":"custom","isTopLevelLink":true} /-->
-	<!-- wp:navigation-link {"label":"<?php echo __( 'Contact us', 'noon' ); ?>","url":"#","kind":"custom","isTopLevelLink":true,"className":""} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Contact us', 'noon' ); ?>","url":"/contact-us","kind":"custom","isTopLevelLink":true,"className":""} /-->
 <!-- /wp:navigation -->
 </div>
 <!-- /wp:group --></div>

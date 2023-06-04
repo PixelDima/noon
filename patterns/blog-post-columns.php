@@ -2,12 +2,12 @@
 /**
  * Title: Blog Post Columns
  * Slug: noon/blog-post-columns
- * Description:
+ * Description: 
  * Categories: posts
  * Keywords: blog, posts, query, pages
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
@@ -26,7 +26,7 @@
 <!-- wp:query {"queryId":1,"query":{"perPage":"3","pages":"3","offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-query alignwide"><!-- wp:post-template {"fontSize":"large"} -->
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"blockGap":"0"},"border":{"width":"1px","radius":"5px"}},"borderColor":"base-2","className":"is-style-noon-shadow","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"}} -->
-<div class="wp-block-group is-style-noon-shadow has-border-color has-base-2-border-color" style="border-width:1px;border-radius:5px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:post-featured-image {"isLink":true,"height":"275px","style":{"color":{"duotone":"unset"}}} /-->
+<div class="wp-block-group is-style-noon-shadow has-border-color has-base-2-border-color" style="border-width:1px;border-radius:5px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:post-featured-image {"isLink":true,"height":"275px","style":{"color":{"duotone":"unset"},"border":{"radius":{"topLeft":"3px","topRight":"3px"}}}} /-->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|large","bottom":"var:preset|spacing|large","left":"var:preset|spacing|large"}}},"className":"is-style-default","layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group is-style-default" style="padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--large)"><!-- wp:post-terms {"term":"category","separator":"","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"className":"is-style-tags","fontSize":"text-sm"} /-->
