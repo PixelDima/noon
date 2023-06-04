@@ -2,18 +2,18 @@
 /**
  * Title: Feature Boxes Contrast
  * Slug: noon/feature-boxes-contrast
- * Description:
+ * Description: 
  * Categories: featured, columns
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","right":"var:preset|spacing|small","left":"var:preset|spacing|small"},"blockGap":"var:preset|spacing|large"}},"backgroundColor":"contrast-3","textColor":"base-0","className":"feature-boxes","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull feature-boxes has-base-0-color has-contrast-3-background-color has-text-color has-background" style="margin-top:0px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|large"}},"backgroundColor":"contrast-3","textColor":"base-0","className":"feature-boxes","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull feature-boxes has-base-0-color has-contrast-3-background-color has-text-color has-background" style="margin-top:0px;padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center","textColor":"inherit"} -->
 <h2 class="wp-block-heading has-text-align-center has-inherit-color has-text-color">Section Title Goes Here</h2>
 <!-- /wp:heading -->

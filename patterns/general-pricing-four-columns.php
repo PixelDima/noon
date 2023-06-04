@@ -2,18 +2,18 @@
 /**
  * Title: Pricing table with heading, list, buttons.
  * Slug: noon/general-pricing-four-columns
- * Description:
+ * Description: 
  * Categories: featured, pricing
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|small","left":"var:preset|spacing|small","top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|medium"}},"backgroundColor":"base-0","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-0-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|medium"}},"backgroundColor":"base-0","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-0-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center","className":"wp-block-heading"} -->
 <h2 class="wp-block-heading has-text-align-center">Small prices, huge value</h2>
 <!-- /wp:heading -->
@@ -83,7 +83,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"}}}} -->
 <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:button {"width":100,"style":{"border":{"radius":"5px"}},"className":"is-style-secondary-button"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-secondary-button"><a class="wp-block-button__link wp-element-button" style="border-radius:5px" href="#">Get Started</a></div>
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-secondary-button"><a class="wp-block-button__link wp-element-button" href="#" style="border-radius:5px">Get Started</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column -->

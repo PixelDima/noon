@@ -2,18 +2,18 @@
 /**
  * Title: Boxed Testimonials.
  * Slug: noon/general-testimonials-boxed
- * Description:
+ * Description: 
  * Categories: testimonials
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","right":"var:preset|spacing|small","left":"var:preset|spacing|small","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}},"backgroundColor":"base-1","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained","contentSize":"600px"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|small"}},"backgroundColor":"base-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained","contentSize":"600px"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
 <h2 class="wp-block-heading has-text-align-center">What peoples say about us</h2>
 <!-- /wp:heading -->
@@ -121,7 +121,3 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->

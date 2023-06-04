@@ -2,18 +2,18 @@
 /**
  * Title: Pricing table with heading, list, buttons. contrast
  * Slug: noon/pricing-table-with-heading-list-buttons-contrast
- * Description:
+ * Description: 
  * Categories: featured, pricing
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"var:preset|spacing|small","left":"var:preset|spacing|small","top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|medium"}},"backgroundColor":"contrast-3","textColor":"base-0","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-0-color has-contrast-3-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"blockGap":"var:preset|spacing|medium"}},"backgroundColor":"contrast-3","textColor":"base-0","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-base-0-color has-contrast-3-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center","textColor":"inherit","className":"wp-block-heading"} -->
 <h2 class="wp-block-heading has-text-align-center has-inherit-color has-text-color">Small prices, huge value</h2>
 <!-- /wp:heading -->

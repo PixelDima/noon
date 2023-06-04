@@ -2,9 +2,9 @@
 /**
  * Title: footer Contrast
  * Slug: noon/footer-contrast
- * Description:
+ * Description: 
  * Categories: footer
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
  * Block Types: core/template-part/footer
  * Post Types: wp_template
@@ -12,8 +12,8 @@
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"padding":{"right":"var:preset|spacing|small","left":"var:preset|spacing|small","top":"0","bottom":"0"}}},"backgroundColor":"contrast-3","textColor":"base-0","className":"has-background-color is-dark","layout":{"type":"constrained"},"fontSize":"text-lg"} -->
-<div class="wp-block-group alignfull has-background-color is-dark has-base-0-color has-contrast-3-background-color has-text-color has-background has-link-color has-text-lg-font-size" style="padding-top:0;padding-right:var(--wp--preset--spacing--small);padding-bottom:0;padding-left:var(--wp--preset--spacing--small)"><!-- wp:columns {"align":"wide","style":{"elements":{"link":{"color":[]}},"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}}} -->
+<!-- wp:group {"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"padding":{"top":"0","bottom":"0"}}},"backgroundColor":"contrast-3","textColor":"base-0","className":"has-background-color is-dark","layout":{"type":"constrained"},"fontSize":"text-lg"} -->
+<div class="wp-block-group alignfull has-background-color is-dark has-base-0-color has-contrast-3-background-color has-text-color has-background has-link-color has-text-lg-font-size" style="padding-top:0;padding-bottom:0"><!-- wp:columns {"align":"wide","style":{"elements":{"link":{"color":[]}},"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}}} -->
 <div class="wp-block-columns alignwide has-link-color" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium)"><!-- wp:column {"width":"55%"} -->
 <div class="wp-block-column" style="flex-basis:55%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"textColor":"inherit"} -->

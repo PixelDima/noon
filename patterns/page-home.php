@@ -12,6 +12,8 @@
  */
 
 ?>
+
+
 <!-- wp:pattern {"slug":"noon/hero-call-to-action-buttons"} /-->
 
 <!-- wp:pattern {"slug":"noon/feature-boxes"} /-->
@@ -24,7 +26,7 @@
 
 <!-- wp:pattern {"slug":"noon/general-testimonials-boxed"} /-->
 
-<!-- wp:pattern {"slug":"noon/pricing-table-with-heading-list-buttons-dark"} /-->
+<!-- wp:pattern {"slug":"noon/noon/general-pricing-four-columns"} /-->
 
 <!-- wp:pattern {"slug":"noon/blog-post-columns"} /-->
 
