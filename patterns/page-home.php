@@ -12,7 +12,7 @@
  */
 
 ?>
-<!-- wp:pattern {"slug":"noon/hero-start"} /-->
+<!-- wp:pattern {"slug":"noon/hero-call-to-action-buttons"} /-->
 
 <!-- wp:pattern {"slug":"noon/feature-boxes"} /-->
 

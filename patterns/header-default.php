@@ -18,15 +18,14 @@
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group">
 <!-- wp:navigation {"layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap"},"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"blockGap":"40px"}},"fontSize":"tiny-plus"} -->
-	<!-- wp:navigation-link {"label":"Landing","url":"#","kind":"custom","isTopLevelLink":true} /-->
-	<!-- wp:navigation-submenu {"label":"Pages","url":"#","kind":"custom","isTopLevelItem":true} -->
-		<!-- wp:navigation-link {"label":"About us","description":"Get to know us better","url":"#","kind":"custom","isTopLevelLink":false} /-->
-		<!-- wp:navigation-link {"label":"Services","description":"Explore what we offer","url":"#","kind":"custom","isTopLevelLink":false} /-->
-		<!-- wp:navigation-link {"label":"Contact us","description":"Let's get in touch","url":"#","kind":"custom","isTopLevelLink":false} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Home', 'noon' ); ?>  ","url":"/","kind":"custom","isTopLevelLink":true} /-->
+	<!-- wp:navigation-submenu {"label":"<?php echo __( 'Pages', 'noon' ); ?>","url":"#","kind":"custom","isTopLevelItem":true} -->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'About us', 'noon' ); ?>","description":"<?php echo __( 'Peek behind the curtain' ); ?>","url":"/about-us","kind":"custom","isTopLevelLink":false} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Services', 'noon' ); ?>","description":"<?php echo __( 'Discover our service' ); ?>","url":"#","kind":"custom","isTopLevelLink":false} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Contact us', 'noon' ); ?>","description":"<?php echo __( 'Drop us a message' ); ?>","url":"#","kind":"custom","isTopLevelLink":false} /-->
 	<!-- /wp:navigation-submenu -->
-	<!-- wp:navigation-link {"label":"Blog","url":"#","kind":"custom","isTopLevelLink":true} /-->
-	<!-- wp:navigation-link {"label":"Gallery","url":"#","kind":"custom","isTopLevelLink":true} /-->
-	<!-- wp:navigation-link {"label":"Contact us","url":"#","kind":"custom","isTopLevelLink":true,"className":""} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Blog', 'noon' ); ?>","url":"/blog","kind":"custom","isTopLevelLink":true} /-->
+	<!-- wp:navigation-link {"label":"<?php echo __( 'Contact us', 'noon' ); ?>","url":"#","kind":"custom","isTopLevelLink":true,"className":""} /-->
 <!-- /wp:navigation -->
 </div>
 <!-- /wp:group --></div>
