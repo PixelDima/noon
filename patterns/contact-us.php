@@ -2,12 +2,12 @@
 /**
  * Title: Contact Us
  * Slug: noon/contact-us
- * Description: 
- * Categories: noon, page, layout
- * Keywords: 
+ * Description:
+ * Categories: noon, pages, layout
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 
@@ -21,8 +21,18 @@
 <!-- /wp:cover -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|large"}},"className":"feature-boxes","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull feature-boxes" style="margin-top:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large","padding":{"right":"0","left":"0"}}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"wrap"}} -->
-<div class="wp-block-group alignwide" style="padding-right:0;padding-left:0"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
+<div class="wp-block-group alignfull feature-boxes" style="margin-top:0px;padding-top:var(--wp--preset--spacing--x-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--x-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained","contentSize":"500px"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Contact Us</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Reach Out and Connect with Us for Any Questions, Support, or Feedback – We're Here to Provide Assistance and Ensure a Positive Experience</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|large","padding":{"right":"0","left":"0","top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"wrap"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--medium);padding-right:0;padding-bottom:var(--wp--preset--spacing--medium);padding-left:0"><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
 <div class="wp-block-columns alignwide" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small"}},"border":{"width":"1px"}},"borderColor":"base-2","backgroundColor":"tertiary","className":"is-style-noon-shadow","layout":{"type":"default"}} -->
 <div class="wp-block-column is-style-noon-shadow has-border-color has-base-2-border-color has-tertiary-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"base"} -->
@@ -77,29 +87,17 @@
 <hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"fontSize":"text-xl"} -->
-<p class="has-text-xl-font-size"><a href="Tel: 123-456-7890">+1 555 666 7773</a></p>
+<!-- wp:paragraph {"style":{"typography":{"textDecoration":"underline"}},"fontSize":"text-xl"} -->
+<p class="has-text-xl-font-size" style="text-decoration:underline"><a href="Tel: 123-456-7890">+1 555 666 7773</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"var:preset|spacing|large"}},"backgroundColor":"base-1","className":"feature-boxes","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull feature-boxes has-base-1-background-color has-background" style="margin-top:0px;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained","contentSize":"500px"}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Visit us</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Reach Out and Connect with Us for Any Questions, Support, or Feedback – We're Here to Provide Assistance and Ensure a Positive Experience</p>
-<!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-group alignwide"><!-- wp:html -->
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13098.229192521807!2d5.7474287!3d34.8422217!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12f5a78446317587%3A0x113883a34ff0ee8f!2sDimaLab%2C%20SARL!5e0!3m2!1sen!2sdz!4v1685938690346!5m2!1sen!2sdz" width="100%" height="70vh" style="border:0;width:100%;height:70vh;filter:grayscale(100%);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13098.229192521807!2d5.7474287!3d34.8422217!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12f5a78446317587%3A0x113883a34ff0ee8f!2sDimaLab%2C%20SARL!5e0!3m2!1sen!2sdz!4v1685938690346!5m2!1sen!2sdz" width="100%" height="70vh" style="border:0; width:100%;height:70vh;filter:grayscale(100%);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <!-- /wp:html --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

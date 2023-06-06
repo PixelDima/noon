@@ -16,8 +16,8 @@
 <div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;min-height:80vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim wp-block-cover__gradient-background has-background-gradient has-noon-base-gradient-background"></span><img class="wp-block-cover__image-background wp-image-725" alt="hero background" src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/patterns/images/hero-bg.webp" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"},"padding":{"top":"var:preset|spacing|xxxx-large","bottom":"var:preset|spacing|xxxx-large","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"},"blockGap":"0px"}},"textColor":"base","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-base-color has-text-color" style="margin-top:0px;margin-bottom:0px;padding-top:var(--wp--preset--spacing--xxxx-large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--xxxx-large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"600px"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"textColor":"contrast-1","fontSize":"text-base"} -->
-<p class="has-text-align-center has-contrast-1-color has-text-color has-text-base-font-size" style="font-style:normal;font-weight:400">Skip the Code</p>
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"text-base"} -->
+<p class="has-text-align-center has-text-base-font-size" style="font-style:normal;font-weight:400">Skip the Code</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"text-6xl"} -->
@@ -25,8 +25,8 @@
 <!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"450px"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|small"}}},"textColor":"contrast-2","fontSize":"text-base"} -->
-<p class="has-text-align-center has-contrast-2-color has-text-color has-text-base-font-size" style="margin-top:var(--wp--preset--spacing--small)">Craft stunning, customizable websites with WordPress Site Editor and Noon block theme. No coding needed!</p>
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|small"}}},"fontSize":"text-base"} -->
+<p class="has-text-align-center has-text-base-font-size" style="margin-top:var(--wp--preset--spacing--small)">Craft stunning, customizable websites with WordPress Site Editor and Noon block theme. No coding needed!</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

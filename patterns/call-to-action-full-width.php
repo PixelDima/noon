@@ -2,34 +2,34 @@
 /**
  * Title: Call-to-action full width.
  * Slug: noon/call-to-action-full-width
- * Description:
+ * Description: 
  * Categories: call-to-action
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|medium","left":"var:preset|spacing|medium","top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"base-1","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-base-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:columns {"align":"wide"} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"layout":{"type":"default"}} -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group"><!-- wp:heading -->
-<h2 class="wp-block-heading">No one can figure out your worth</h2>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|medium","left":"var:preset|spacing|medium","top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"accent","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-accent-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--large);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--large);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:columns {"verticalAlignment":"center","align":"wide"} -->
+<div class="wp-block-columns alignwide are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"60%","layout":{"type":"default"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textColor":"contrast-3"} -->
+<h2 class="wp-block-heading has-contrast-3-color has-text-color">Ready to Build Your Next Site?</h2>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a<br>piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+<!-- wp:paragraph {"textColor":"contrast-3"} -->
+<p class="has-contrast-3-color has-text-color">Create a lightning-fast website using the power of the WordPress Site Editor and stunning pre-made designs from Noon - all without the need for coding skills.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
-<div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Read More</a></div>
+<!-- wp:column {"verticalAlignment":"center","width":""} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"contrast-3","textColor":"base-0","className":"is-style-secondary-button"} -->
+<div class="wp-block-button is-style-secondary-button"><a class="wp-block-button__link has-base-0-color has-contrast-3-background-color has-text-color has-background wp-element-button">Download Noon Today</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>
