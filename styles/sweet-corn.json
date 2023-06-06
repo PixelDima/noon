@@ -69,6 +69,11 @@
 					"name": "Fixed Base",
 					"color": "#1a1236",
 					"slug": "fixed-base"
+				},
+				{
+					"name": "Fixed White",
+					"color": "#FFFFFE",
+					"slug": "fixed-white"
 				}
 			]
 		}
