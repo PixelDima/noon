@@ -2,12 +2,12 @@
 /**
  * Title: FAQ
  * Slug: noon/faq
- * Description:
+ * Description: 
  * Categories: text
  * Keywords: faq
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
@@ -31,8 +31,8 @@
 <hr class="wp-block-separator has-text-color has-contrast-0-color has-alpha-channel-opacity has-contrast-0-background-color has-background is-style-swt-separator-wide-thin-line is-style-separator-dotted"/>
 <!-- /wp:separator -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small","padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:heading {"level":4} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
 <h4 class="wp-block-heading">What are some benefits of using Full Site Editing?</h4>
 <!-- /wp:heading -->
 

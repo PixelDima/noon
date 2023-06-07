@@ -14,8 +14,6 @@
 ?>
 <!-- wp:pattern {"slug":"noon/general-pricing-four-columns"} /-->
 
-<!-- wp:pattern {"slug":"noon/team-members"} /-->
-
-<!-- wp:pattern {"slug":"noon/text-and-button-and-columns"} /-->
+<!-- wp:pattern {"slug":"noon/faq-with-columns"} /-->
 
 <!-- wp:pattern {"slug":"noon/text-call-to-action"} /-->

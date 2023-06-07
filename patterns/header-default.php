@@ -12,8 +12,8 @@
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"},"margin":{"top":"0px"},"blockGap":"0"}},"backgroundColor":"transparent","textColor":"contrast-3","className":"is-style-default is-style-header-transparent","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default is-style-header-transparent has-contrast-3-color has-transparent-background-color has-text-color has-background" style="margin-top:0px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"},"margin":{"top":"0px"},"blockGap":"0"}},"backgroundColor":"transparent","textColor":"fixed-white","className":"is-style-default is-style-header-transparent","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default is-style-header-transparent has-fixed-white-color has-transparent-background-color has-text-color has-background" style="margin-top:0px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:group {"align":"wide","layout":{"type":"flex","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide"><!-- wp:site-logo {"width":45,"shouldSyncIcon":true} /-->
 
 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->

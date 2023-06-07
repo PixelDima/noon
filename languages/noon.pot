@@ -572,7 +572,7 @@ msgstr ""
 #: styles/sweet-corn.json
 #: theme.json
 msgctxt "Color name"
-msgid "Fixed Base"
+msgid "Fixed Accent Foreground"
 msgstr ""
 
 #: styles/nature.json
