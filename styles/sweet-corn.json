@@ -51,6 +51,21 @@
 					"slug": "base-0"
 				},
 				{
+					"name": "Fixed Accent Foreground",
+					"color": "#1a1236",
+					"slug": "fixed-base"
+				},
+				{
+					"name": "Fixed White",
+					"color": "#FFFFFE",
+					"slug": "fixed-white"
+				},
+				{
+					"name": "Fixed Dark",
+					"color": "#382960",
+					"slug": "fixed-dark"
+				},
+				{
 					"name": "Transparent",
 					"color": "transparent",
 					"slug": "transparent"
@@ -64,16 +79,6 @@
 					"name": "Inherit",
 					"color": "inherit",
 					"slug": "inherit"
-				},
-				{
-					"name": "Fixed Base",
-					"color": "#1a1236",
-					"slug": "fixed-base"
-				},
-				{
-					"name": "Fixed White",
-					"color": "#FFFFFE",
-					"slug": "fixed-white"
 				}
 			]
 		}
