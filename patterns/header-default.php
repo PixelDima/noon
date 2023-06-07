@@ -23,7 +23,7 @@
 <!-- wp:navigation-submenu {"label":"Pages","url":"#","kind":"custom","isTopLevelItem":true} -->
 <!-- wp:navigation-link {"label":"About us","description":"Peek behind the curtain","url":"/about-us","kind":"custom","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Price","description":"Discover our service","url":"/price","kind":"custom","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Pricing","description":"Discover our service","url":"/pricing","kind":"custom","isTopLevelLink":false} /-->
 
 <!-- wp:navigation-link {"label":"Contact us","description":"Drop us a message","url":"/contact-us","kind":"custom","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->

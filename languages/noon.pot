@@ -9,13 +9,14 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-06-01T22:02:53+00:00\n"
+"POT-Creation-Date: 2023-06-07T16:47:44+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.7.1\n"
 "X-Domain: noon\n"
 
 #. Theme Name of the theme
 #: inc/modules/blocks/patterns.php:43
+#: zip/noon/inc/modules/blocks/patterns.php:43
 msgid "Noon"
 msgstr ""
 
@@ -102,6 +103,7 @@ msgid "Contrast Style"
 msgstr ""
 
 #: inc/modules/blocks/styles.php:72
+#: zip/noon/inc/modules/blocks/styles.php:72
 msgid "Tags Style"
 msgstr ""
 
@@ -188,6 +190,16 @@ msgstr ""
 #: patterns/call-to-action-full-width.php
 msgctxt "Pattern title"
 msgid "Call-to-action full width."
+msgstr ""
+
+#: patterns/contact-us.php
+msgctxt "Pattern title"
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/faq-with-columns.php
+msgctxt "Pattern title"
+msgid "FAQ With Columns"
 msgstr ""
 
 #: patterns/faq.php
@@ -280,11 +292,6 @@ msgctxt "Pattern title"
 msgid "header default"
 msgstr ""
 
-#: patterns/header-transparent.php
-msgctxt "Pattern title"
-msgid "header transparent"
-msgstr ""
-
 #: patterns/hero-call-to-action-buttons.php
 msgctxt "Pattern title"
 msgid "Hero Call To Action Buttons"
@@ -316,6 +323,7 @@ msgid "About Page"
 msgstr ""
 
 #: patterns/page-about.php
+#: patterns/pricing-page.php
 msgctxt "Pattern description"
 msgid "A full page design for an About page"
 msgstr ""
@@ -335,6 +343,11 @@ msgctxt "Pattern title"
 msgid "Page Title Archive"
 msgstr ""
 
+#: patterns/page-title-blog.php
+msgctxt "Pattern title"
+msgid "page title blog"
+msgstr ""
+
 #: patterns/page-title-search.php
 msgctxt "Pattern title"
 msgid "Page Title Search"
@@ -348,6 +361,11 @@ msgstr ""
 #: patterns/post-navigation.php
 msgctxt "Pattern title"
 msgid "Post navigation"
+msgstr ""
+
+#: patterns/pricing-page.php
+msgctxt "Pattern title"
+msgid "Pricing Page"
 msgstr ""
 
 #: patterns/pricing-table-with-heading-list-buttons-contrast.php
@@ -408,10 +426,6 @@ msgstr ""
 #: patterns/text-call-to-action.php
 msgctxt "Pattern title"
 msgid "Text Call To Action"
-msgstr ""
-
-#: zip/noon/inc/modules/blocks/patterns.php:43
-msgid "Noon (Noon)"
 msgstr ""
 
 #: styles/dark.json
@@ -536,6 +550,42 @@ msgstr ""
 #: styles/sweet-corn.json
 #: theme.json
 msgctxt "Color name"
+msgid "Fixed Accent Foreground"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fixed White"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fixed Dark"
+msgstr ""
+
+#: styles/dark.json
+#: styles/nature.json
+#: styles/noon-light.json
+#: styles/ocean.json
+#: styles/pastel.json
+#: styles/sunset.json
+#: styles/sweet-corn.json
+#: theme.json
+msgctxt "Color name"
 msgid "Transparent"
 msgstr ""
 
@@ -561,18 +611,6 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Inherit"
-msgstr ""
-
-#: styles/dark.json
-#: styles/nature.json
-#: styles/noon-light.json
-#: styles/ocean.json
-#: styles/pastel.json
-#: styles/sunset.json
-#: styles/sweet-corn.json
-#: theme.json
-msgctxt "Color name"
-msgid "Fixed Accent Foreground"
 msgstr ""
 
 #: styles/nature.json
@@ -684,6 +722,11 @@ msgstr ""
 #: theme.json
 msgctxt "Gradient name"
 msgid "Base"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Dark"
 msgstr ""
 
 #: theme.json
