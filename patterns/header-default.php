@@ -2,9 +2,9 @@
 /**
  * Title: header default
  * Slug: noon/header-default
- * Description: 
+ * Description:
  * Categories: noon, header
- * Keywords: 
+ * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/header
  * Post Types: wp_template
@@ -23,7 +23,7 @@
 <!-- wp:navigation-submenu {"label":"Pages","url":"#","kind":"custom","isTopLevelItem":true} -->
 <!-- wp:navigation-link {"label":"About us","description":"Peek behind the curtain","url":"/about-us","kind":"custom","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Services","description":"Discover our service","url":"/services","kind":"custom","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Price","description":"Discover our service","url":"/price","kind":"custom","isTopLevelLink":false} /-->
 
 <!-- wp:navigation-link {"label":"Contact us","description":"Drop us a message","url":"/contact-us","kind":"custom","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->
