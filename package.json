@@ -1,7 +1,7 @@
 {
     "name": "noon",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.1.1",
     "prettier": "@wordpress/prettier-config",
     "dependencies": {
         "typescript": "^4.9.5"
