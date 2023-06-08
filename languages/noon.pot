@@ -2,14 +2,14 @@
 # This file is distributed under the GNU General Public License v2 or later..
 msgid ""
 msgstr ""
-"Project-Id-Version: Noon 0.1.0\n"
+"Project-Id-Version: Noon 0.1.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/noon\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-06-07T16:47:44+00:00\n"
+"POT-Creation-Date: 2023-06-08T20:19:09+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.7.1\n"
 "X-Domain: noon\n"
@@ -378,31 +378,6 @@ msgctxt "Pattern title"
 msgid "Sidebar"
 msgstr ""
 
-#: patterns/sidebar.php:18
-#: zip/noon/patterns/sidebar.php:18
-msgid "Need Assistance?"
-msgstr ""
-
-#: patterns/sidebar.php:40
-#: zip/noon/patterns/sidebar.php:40
-msgid "Discover Our Theme"
-msgstr ""
-
-#: patterns/sidebar.php:47
-#: zip/noon/patterns/sidebar.php:47
-msgid "Latest Articles"
-msgstr ""
-
-#: patterns/sidebar.php:71
-#: zip/noon/patterns/sidebar.php:71
-msgid "Stay Connected"
-msgstr ""
-
-#: patterns/sidebar.php:85
-#: zip/noon/patterns/sidebar.php:85
-msgid "Categories"
-msgstr ""
-
 #: patterns/single-testimonials.php
 msgctxt "Pattern title"
 msgid "Single Testimonials"
@@ -620,7 +595,7 @@ msgstr ""
 
 #: styles/noon-light.json
 msgctxt "Style variation name"
-msgid "Noon Light"
+msgid "Noon Dark"
 msgstr ""
 
 #: styles/ocean.json
