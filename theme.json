@@ -108,37 +108,37 @@
 					"slug": "accent-alt"
 				},
 				{
-					"color": "#FFFFFF",
+					"color": "#212529",
 					"name": "Contrast 3",
 					"slug": "contrast-3"
 				},
 				{
-					"color": "hsla(210, 10%, 83%, 1)",
+					"color": "#485058",
 					"name": "Contrast 2",
 					"slug": "contrast-2"
 				},
 				{
-					"color": "#DFE2E5",
+					"color": "#818D98",
 					"name": "Contrast 1",
 					"slug": "contrast-1"
 				},
 				{
-					"color": "#444D55",
+					"color": "#D0D4D8",
 					"name": "Contrast 0",
 					"slug": "contrast-0"
 				},
 				{
-					"color": "#3A4761",
+					"color": "#EDF0F3",
 					"name": "Base 2",
 					"slug": "base-2"
 				},
 				{
-					"color": "#242D42",
+					"color": "#F8F9FA",
 					"name": "Base 1",
 					"slug": "base-1"
 				},
 				{
-					"color": "#192134",
+					"color": "#ffffff",
 					"name": "Base 0",
 					"slug": "base-0"
 				},
@@ -154,7 +154,7 @@
 				},
 				{
 					"name": "Fixed Dark",
-					"color": "#242D42",
+					"color": "#212529",
 					"slug": "fixed-dark"
 				},
 				{
