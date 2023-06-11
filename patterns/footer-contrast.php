@@ -12,8 +12,8 @@
  */
 
 ?>
-<!-- wp:group {"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"padding":{"top":"0","bottom":"0"}}},"backgroundColor":"contrast-3","textColor":"base-0","className":"has-background-color is-dark","layout":{"type":"constrained"},"fontSize":"text-lg"} -->
-<div class="wp-block-group alignfull has-background-color is-dark has-base-0-color has-contrast-3-background-color has-text-color has-background has-link-color has-text-lg-font-size" style="padding-top:0;padding-bottom:0"><!-- wp:columns {"align":"wide","style":{"elements":{"link":{"color":[]}},"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}}} -->
+<!-- wp:group {"align":"full","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"spacing":{"padding":{"top":"0","bottom":"0"}}},"backgroundColor":"contrast-3","textColor":"fixed-base","className":"has-background-color is-dark","layout":{"type":"constrained"},"fontSize":"text-lg"} -->
+<div class="wp-block-group alignfull has-background-color is-dark has-fixed-base-color has-contrast-3-background-color has-text-color has-background has-link-color has-text-lg-font-size" style="padding-top:0;padding-bottom:0"><!-- wp:columns {"align":"wide","style":{"elements":{"link":{"color":[]}},"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}}} -->
 <div class="wp-block-columns alignwide has-link-color" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:column {"width":"55%"} -->
 <div class="wp-block-column" style="flex-basis:55%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"textColor":"inherit"} -->
@@ -105,12 +105,12 @@
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}},"border":{"top":{"color":"var:preset|color|contrast-1","width":"1px"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide" style="border-top-color:var(--wp--preset--color--contrast-1);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:paragraph {"textColor":"inherit","fontSize":"small"} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}},"border":{"top":{"color":"var:preset|color|contrast-2","width":"1px"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide" style="border-top-color:var(--wp--preset--color--contrast-2);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:paragraph {"textColor":"inherit","fontSize":"small"} -->
 <p class="has-inherit-color has-text-color has-small-font-size">© 2023 Noon Block Theme by <a href="https://pixeldima.com">PixelDima</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"base-1","iconColorValue":"#F8F9FA","iconBackgroundColor":"contrast-3","iconBackgroundColorValue":"#212529","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}},"className":"is-style-default","layout":{"type":"flex","flexWrap":"wrap"}} -->
+<!-- wp:social-links {"iconColor":"base-1","iconColorValue":"#F8F9FA","iconBackgroundColor":"contrast-3","iconBackgroundColorValue":"#212529","style":{"spacing":{"blockGap":{"top":"0","left":"0"}}},"className":"is-style-default","layout":{"type":"flex","flexWrap":"wrap"}} -->
 <ul class="wp-block-social-links has-icon-color has-icon-background-color is-style-default"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
