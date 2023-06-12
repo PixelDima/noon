@@ -2,12 +2,12 @@
 /**
  * Title: Sidebar
  * Slug: noon/sidebar
- * Description: 
- * Categories: noon
- * Keywords: 
+ * Description:
+ * Categories: noon, post
+ * Keywords: sidebar, post
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

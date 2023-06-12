@@ -2,12 +2,12 @@
 /**
  * Title: FAQ
  * Slug: noon/faq
- * Description: 
- * Categories: text
+ * Description:
+ * Categories: featured, noon
  * Keywords: faq
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

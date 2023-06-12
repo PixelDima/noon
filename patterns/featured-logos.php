@@ -3,7 +3,7 @@
  * Title: Featured logos
  * Slug: noon/featured-logos
  * Description:
- * Categories: columns, gallery
+ * Categories: gallery, noon
  * Keywords: logo
  * Viewport Width: 1280
  * Block Types:

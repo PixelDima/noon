@@ -2,12 +2,12 @@
 /**
  * Title: Blog classic
  * Slug: noon/blog-classic
- * Description: 
- * Categories: posts
- * Keywords: 
+ * Description:
+ * Categories: posts, noon
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

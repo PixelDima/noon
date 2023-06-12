@@ -2,12 +2,12 @@
 /**
  * Title: Hero Video
  * Slug: noon/hero-video
- * Description: 
- * Categories: call-to-action, hero, featured
+ * Description:
+ * Categories: call-to-action, hero, featured, noon
  * Keywords: cta, header, buttons, heading, hero, feature, homepage
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

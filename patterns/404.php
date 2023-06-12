@@ -3,7 +3,7 @@
  * Title: 404 error content.
  * Slug: noon/404
  * Description:
- * Categories: 404
+ * Categories: 404,noon
  * Keywords:
  * Viewport Width: 1280
  * Block Types:

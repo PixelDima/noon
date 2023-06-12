@@ -2,12 +2,12 @@
 /**
  * Title: Call-to-action full width.
  * Slug: noon/call-to-action-full-width
- * Description: 
- * Categories: call-to-action
- * Keywords: 
+ * Description:
+ * Categories: call-to-action, noon
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

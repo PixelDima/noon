@@ -2,12 +2,12 @@
 /**
  * Title: Feature Boxes Contrast
  * Slug: noon/feature-boxes-contrast
- * Description: 
- * Categories: featured, columns
- * Keywords: 
+ * Description:
+ * Categories: featured, noon
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

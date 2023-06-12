@@ -3,7 +3,7 @@
  * Title: Call to action card boxed
  * Slug: noon/call-to-action-card-boxed
  * Description: You can use this pattern to create a call to action card with a boxed layout.
- * Categories: call-to-action
+ * Categories: call-to-action, noon
  * Keywords: button, call to action, cta, link
  * Viewport Width: 1280
  * Block Types:

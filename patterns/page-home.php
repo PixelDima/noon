@@ -3,11 +3,11 @@
  * Title: Homepage.
  * Slug: noon/page-home
  * Description: A full page design for a Homepage
- * Categories: pages, featured
+ * Categories: pages, noon
  * Keywords: page, layout, design, template, home
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

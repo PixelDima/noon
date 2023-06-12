@@ -2,12 +2,12 @@
 /**
  * Title: Pricing table with heading, list, buttons.
  * Slug: noon/general-pricing-four-columns
- * Description: 
- * Categories: featured, pricing
- * Keywords: 
+ * Description:
+ * Categories: pricing, noon
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

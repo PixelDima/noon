@@ -2,12 +2,12 @@
 /**
  * Title: Contact Us
  * Slug: noon/contact-us
- * Description: 
- * Categories: noon, pages, layout
- * Keywords: 
+ * Description:
+ * Categories: noon, pages
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

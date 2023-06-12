@@ -3,7 +3,7 @@
  * Title: footer centered base.
  * Slug: noon/footer-centered-base
  * Description:
- * Categories: footer
+ * Categories: footer, noon
  * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/footer

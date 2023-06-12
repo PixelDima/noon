@@ -3,7 +3,7 @@
  * Title: footer centered contrast.
  * Slug: noon/footer-centered-contrast
  * Description:
- * Categories: footer
+ * Categories: footer, noon
  * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/footer

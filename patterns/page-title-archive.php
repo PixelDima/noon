@@ -2,12 +2,12 @@
 /**
  * Title: Page Title Archive
  * Slug: noon/page-title-archive
- * Description: 
+ * Description:
  * Categories: noon, header
- * Keywords: 
+ * Keywords: title, archive
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

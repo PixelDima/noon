@@ -2,12 +2,12 @@
 /**
  * Title: Single Testimonials
  * Slug: noon/single-testimonials
- * Description: 
- * Categories: testimonials
- * Keywords: 
+ * Description:
+ * Categories: testimonials, noon
+ * Keywords: testimonial, quote, avatar
  * Viewport Width: 640
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

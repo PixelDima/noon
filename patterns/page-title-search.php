@@ -2,12 +2,12 @@
 /**
  * Title: Page Title Search
  * Slug: noon/page-title-search
- * Description: 
+ * Description:
  * Categories: noon, header
- * Keywords: 
+ * Keywords:  title, search
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

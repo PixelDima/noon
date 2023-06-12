@@ -2,9 +2,9 @@
 /**
  * Title: footer Contrast
  * Slug: noon/footer-contrast
- * Description: 
- * Categories: footer
- * Keywords: 
+ * Description:
+ * Categories: footer, noon
+ * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/footer
  * Post Types: wp_template

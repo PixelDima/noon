@@ -2,12 +2,12 @@
 /**
  * Title: Blog Post Columns
  * Slug: noon/blog-post-columns
- * Description: 
- * Categories: posts
+ * Description:
+ * Categories: posts, noon
  * Keywords: blog, posts, query, pages
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

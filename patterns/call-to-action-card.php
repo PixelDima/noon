@@ -3,7 +3,7 @@
  * Title: Call To Action Card
  * Slug: noon/call-to-action-card
  * Description:
- * Categories: call-to-action
+ * Categories: call-to-action, noon
  * Keywords:
  * Viewport Width: 640
  * Block Types:

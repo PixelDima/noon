@@ -3,11 +3,11 @@
  * Title: About Page
  * Slug: noon/page-about
  * Description: A full page design for an About page
- * Categories: pages
+ * Categories: pages, noon
  * Keywords: page, layout, design, template
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

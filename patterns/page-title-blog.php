@@ -2,12 +2,12 @@
 /**
  * Title: page title blog
  * Slug: noon/page-title-blog
- * Description: 
+ * Description:
  * Categories: noon, header
- * Keywords: 
+ * Keywords: title, blog
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

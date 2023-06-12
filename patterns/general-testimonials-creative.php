@@ -2,12 +2,12 @@
 /**
  * Title: Creative Testimonials.
  * Slug: noon/general-testimonials-creative
- * Description: 
- * Categories: testimonials
- * Keywords: 
+ * Description:
+ * Categories: testimonials, noon
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

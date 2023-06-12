@@ -3,7 +3,7 @@
  * Title: Call-to-action full width. Dark
  * Slug: noon/call-to-action-full-width-dark
  * Description:
- * Categories: call-to-action
+ * Categories: call-to-action, noon
  * Keywords:
  * Viewport Width: 1280
  * Block Types:

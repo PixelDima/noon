@@ -2,12 +2,12 @@
 /**
  * Title: Post navigation
  * Slug: noon/post-navigation
- * Description: 
+ * Description:
  * Categories: posts, noon
- * Keywords: 
+ * Keywords: post, navigation
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

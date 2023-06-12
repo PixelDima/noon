@@ -2,12 +2,12 @@
 /**
  * Title: Team Members
  * Slug: noon/team-members
- * Description: 
- * Categories: team
- * Keywords: 
+ * Description:
+ * Categories: team, noon
+ * Keywords: team, members
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

@@ -2,12 +2,12 @@
 /**
  * Title: Image and Text and Columns
  * Slug: noon/image-and-text-and-columns
- * Description: 
- * Categories: columns, featured
- * Keywords: 
+ * Description:
+ * Categories: featured, noon
+ * Keywords:
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

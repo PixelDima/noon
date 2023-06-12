@@ -3,7 +3,7 @@
  * Title: Blog Post Card
  * Slug: noon/blog-post-card
  * Description:
- * Categories: posts
+ * Categories: posts, noon
  * Keywords:
  * Viewport Width: 640
  * Block Types:

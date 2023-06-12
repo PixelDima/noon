@@ -2,12 +2,12 @@
 /**
  * Title: Pricing table with heading, list, buttons. contrast
  * Slug: noon/pricing-table-with-heading-list-buttons-contrast
- * Description: 
- * Categories: featured, pricing
- * Keywords: 
+ * Description:
+ * Categories: pricing, noon
+ * Keywords: pricing, table, heading, list, buttons, contrast
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 

@@ -3,7 +3,7 @@
  * Title: footer minimal contrast.
  * Slug: noon/footer-minimal-contrast
  * Description:
- * Categories: footer
+ * Categories: footer, noon
  * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/footer

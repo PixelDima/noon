@@ -2,12 +2,12 @@
 /**
  * Title: Image and Numbered Features
  * Slug: noon/image-and-numbered-features
- * Description: 
- * Categories: columns, buttons, featured
+ * Description:
+ * Categories: featured, noon
  * Keywords: number, list, features, bullet
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 
