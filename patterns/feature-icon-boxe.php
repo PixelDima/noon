@@ -28,11 +28,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"contrast-3","fontSize":"base"} -->
-<h3 class="wp-block-heading has-contrast-3-color has-text-color has-base-font-size">Easy Customization</h3>
+<h3 class="wp-block-heading has-contrast-3-color has-text-color has-base-font-size"><?php echo esc_html__( 'Easy Customization', 'noon' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"text-base"} -->
-<p class="has-text-base-font-size">Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look.</p>
+<p class="has-text-base-font-size"><?php echo esc_html__( 'Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look.', 'noon' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
@@ -50,11 +50,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"contrast-3","fontSize":"base"} -->
-<h3 class="wp-block-heading has-contrast-3-color has-text-color has-base-font-size">Easy Customization</h3>
+<h3 class="wp-block-heading has-contrast-3-color has-text-color has-base-font-size"><?php echo esc_html__( 'Easy Customization', 'noon' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"text-base"} -->
-<p class="has-text-base-font-size">Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look.</p>
+<p class="has-text-base-font-size"><?php echo esc_html__( 'Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look.', 'noon' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->
@@ -72,11 +72,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3,"textColor":"contrast-3","fontSize":"base"} -->
-<h3 class="wp-block-heading has-contrast-3-color has-text-color has-base-font-size">Easy Customization</h3>
+<h3 class="wp-block-heading has-contrast-3-color has-text-color has-base-font-size"><?php echo esc_html__( 'Easy Customization', 'noon' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"text-base"} -->
-<p class="has-text-base-font-size">Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look.</p>
+<p class="has-text-base-font-size"><?php echo esc_html__( 'Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look.', 'noon' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons -->

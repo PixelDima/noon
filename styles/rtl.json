@@ -24,8 +24,8 @@
 			"fontFamilies": [
 				{
 					"fontFamily": "Readex Pro, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif",
-					"name": "Sans",
-					"slug": "sans",
+					"name": "heading",
+					"slug": "heading",
 					"fontFace": [
 						{
 							"fontDisplay": "block",
@@ -38,9 +38,19 @@
 					]
 				},
 				{
-					"fontFamily": "Dank Mono, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, monospace",
-					"name": "Mono",
-					"slug": "mono"
+					"fontFamily": "Readex Pro, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif",
+					"name": "body",
+					"slug": "body",
+					"fontFace": [
+						{
+							"fontDisplay": "block",
+							"fontFamily": "Readex Pro",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "100 900",
+							"src": ["file:./assets/fonts/ReadexPro.woff2"]
+						}
+					]
 				},
 				{
 					"fontFamily": "ui-serif, serif",

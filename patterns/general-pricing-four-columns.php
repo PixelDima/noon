@@ -2,12 +2,12 @@
 /**
  * Title: Pricing table with heading, list, buttons.
  * Slug: noon/general-pricing-four-columns
- * Description:
+ * Description: 
  * Categories: pricing, noon
- * Keywords:
+ * Keywords: 
  * Viewport Width: 1280
- * Block Types:
- * Post Types:
+ * Block Types: 
+ * Post Types: 
  * Inserter: true
  */
 
@@ -24,19 +24,19 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1170px"}} -->
-<div class="wp-block-group alignwide"><!-- wp:columns {"verticalAlignment":null,"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"width":"1px"}},"borderColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center has-border-color has-base-2-border-color" style="border-width:1px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.5"}},"textColor":"contrast-2","fontSize":"text-base"} -->
-<p class="has-text-align-left has-contrast-2-color has-text-color has-text-base-font-size" style="line-height:1.5">Personal</p>
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"textColor":"contrast-2","fontSize":"text-base"} -->
+<p class="has-contrast-2-color has-text-color has-text-base-font-size" style="line-height:1.5">Personal</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"base-2","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"contrast-3","className":"is-style-default","fontSize":"text-6xl"} -->
-<p class="has-text-align-left is-style-default has-contrast-3-color has-text-color has-text-6-xl-font-size" style="font-style:normal;font-weight:500">$0</p>
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"contrast-3","className":"is-style-default","fontSize":"text-6xl"} -->
+<p class="is-style-default has-contrast-3-color has-text-color has-text-6-xl-font-size" style="font-style:normal;font-weight:500">$0</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -91,16 +91,16 @@
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"width":"1px"}},"borderColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-column has-border-color has-base-2-border-color" style="border-width:1px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"text-base"} -->
-<p class="has-text-align-left has-text-base-font-size" style="line-height:1.5">Premium</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"fontSize":"text-base"} -->
+<p class="has-text-base-font-size" style="line-height:1.5">Premium</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"base-2","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"className":"is-style-default","fontSize":"text-6xl"} -->
-<p class="has-text-align-left is-style-default has-text-6-xl-font-size" style="font-style:normal;font-weight:500">$39</p>
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"className":"is-style-default","fontSize":"text-6xl"} -->
+<p class="is-style-default has-text-6-xl-font-size" style="font-style:normal;font-weight:500">$39</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -175,16 +175,16 @@
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"width":"1px"}},"borderColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-column is-vertically-aligned-center has-border-color has-base-2-border-color" style="border-width:1px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.5"}},"textColor":"contrast-2","fontSize":"text-base"} -->
-<p class="has-text-align-left has-contrast-2-color has-text-color has-text-base-font-size" style="line-height:1.5">Start-up</p>
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}},"textColor":"contrast-2","fontSize":"text-base"} -->
+<p class="has-contrast-2-color has-text-color has-text-base-font-size" style="line-height:1.5">Start-up</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"base-2","className":"is-style-wide"} -->
 <hr class="wp-block-separator has-text-color has-base-2-color has-alpha-channel-opacity has-base-2-background-color has-background is-style-wide"/>
 <!-- /wp:separator -->
 
-<!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"contrast-3","className":"is-style-default","fontSize":"text-6xl"} -->
-<p class="has-text-align-left is-style-default has-contrast-3-color has-text-color has-text-6-xl-font-size" style="font-style:normal;font-weight:500">$79</p>
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"contrast-3","className":"is-style-default","fontSize":"text-6xl"} -->
+<p class="is-style-default has-contrast-3-color has-text-color has-text-6-xl-font-size" style="font-style:normal;font-weight:500">$79</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
