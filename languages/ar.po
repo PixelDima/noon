@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Noon 0.1.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/noon\n"
-"POT-Creation-Date: 2023-06-16T22:48:06+00:00\n"
-"PO-Revision-Date: 2023-06-16 23:48+0100\n"
+"POT-Creation-Date: 2023-06-17T20:36:28+00:00\n"
+"PO-Revision-Date: 2023-06-17 21:40+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ar\n"
@@ -178,6 +178,21 @@ msgstr ""
 #: patterns/feature-boxes.php:76 patterns/feature-boxes.php:106
 #: patterns/feature-boxes.php:138 patterns/feature-boxes.php:168
 #: patterns/feature-boxes.php:198
+#: zip/noon/patterns/call-to-action-card-boxed.php:32
+#: zip/noon/patterns/call-to-action-card.php:32
+#: zip/noon/patterns/call-to-action-full-width-dark.php:32
+#: zip/noon/patterns/feature-boxes-contrast.php:46
+#: zip/noon/patterns/feature-boxes-contrast.php:76
+#: zip/noon/patterns/feature-boxes-contrast.php:106
+#: zip/noon/patterns/feature-boxes-contrast.php:138
+#: zip/noon/patterns/feature-boxes-contrast.php:168
+#: zip/noon/patterns/feature-boxes-contrast.php:198
+#: zip/noon/patterns/feature-boxes.php:46
+#: zip/noon/patterns/feature-boxes.php:76
+#: zip/noon/patterns/feature-boxes.php:106
+#: zip/noon/patterns/feature-boxes.php:138
+#: zip/noon/patterns/feature-boxes.php:168
+#: zip/noon/patterns/feature-boxes.php:198
 msgid "Read More"
 msgstr ""
 
@@ -201,43 +216,43 @@ msgctxt "Pattern title"
 msgid "Contact Us"
 msgstr ""
 
-#: patterns/contact-us.php:18
+#: patterns/contact-us.php:18 zip/noon/patterns/contact-us.php:18
 msgid "Share Your Feedback"
 msgstr ""
 
-#: patterns/contact-us.php:19
+#: patterns/contact-us.php:19 zip/noon/patterns/contact-us.php:19
 msgid "We Love Hearing from You!"
 msgstr ""
 
-#: patterns/contact-us.php:31
+#: patterns/contact-us.php:31 zip/noon/patterns/contact-us.php:31
 msgid "Address"
 msgstr ""
 
-#: patterns/contact-us.php:36
+#: patterns/contact-us.php:36 zip/noon/patterns/contact-us.php:36
 msgid ""
 "Craving a visit? Discover our handy-dandy location and drop by for a "
 "delightful experience."
 msgstr ""
 
-#: patterns/contact-us.php:44
+#: patterns/contact-us.php:44 zip/noon/patterns/contact-us.php:44
 msgid "199 North Baronial St. Dorchester Center"
 msgstr ""
 
-#: patterns/contact-us.php:52
+#: patterns/contact-us.php:52 zip/noon/patterns/contact-us.php:52
 msgid "Email Address"
 msgstr ""
 
-#: patterns/contact-us.php:56
+#: patterns/contact-us.php:56 zip/noon/patterns/contact-us.php:56
 msgid ""
 "Got a question? We're here to help! Send us a message and we'll get back to "
 "you soon."
 msgstr ""
 
-#: patterns/contact-us.php:72
+#: patterns/contact-us.php:72 zip/noon/patterns/contact-us.php:72
 msgid "Phone Numbers"
 msgstr ""
 
-#: patterns/contact-us.php:76
+#: patterns/contact-us.php:76 zip/noon/patterns/contact-us.php:76
 msgid ""
 "Looking for someone to talk to? Reach out to us at our dedicated helpline "
 "and we'll lend an ear."
@@ -249,6 +264,7 @@ msgid "FAQ With Columns"
 msgstr ""
 
 #: patterns/faq-with-columns.php:18 patterns/faq.php:17
+#: zip/noon/patterns/faq-with-columns.php:18 zip/noon/patterns/faq.php:17
 msgid "Frequently Asked Questions"
 msgstr ""
 
@@ -257,22 +273,22 @@ msgctxt "Pattern title"
 msgid "FAQ"
 msgstr ""
 
-#: patterns/faq.php:22
+#: patterns/faq.php:22 zip/noon/patterns/faq.php:22
 msgid "What is Full Site Editing?"
 msgstr ""
 
-#: patterns/faq.php:26
+#: patterns/faq.php:26 zip/noon/patterns/faq.php:26
 msgid ""
 "Full Site Editing (FSE) is a feature in WordPress that allows users to "
 "visually design and customize their entire website, including the header, "
 "footer, and other template parts."
 msgstr ""
 
-#: patterns/faq.php:36
+#: patterns/faq.php:36 zip/noon/patterns/faq.php:36
 msgid "What are some benefits of using Full Site Editing?"
 msgstr ""
 
-#: patterns/faq.php:40
+#: patterns/faq.php:40 zip/noon/patterns/faq.php:40
 msgid ""
 "Full Site Editing provides a more user-friendly, streamlined approach to "
 "website design and customization. It allows users to see changes in real-"
@@ -280,21 +296,21 @@ msgid ""
 "create more custom blocks and templates."
 msgstr ""
 
-#: patterns/faq.php:50
+#: patterns/faq.php:50 zip/noon/patterns/faq.php:50
 msgid "Can I use Full Site Editing on my existing WordPress website?"
 msgstr ""
 
-#: patterns/faq.php:54
+#: patterns/faq.php:54 zip/noon/patterns/faq.php:54
 msgid ""
 "Yes, you can use Full Site Editing on an existing WordPress website by "
 "installing a compatible theme that supports the feature."
 msgstr ""
 
-#: patterns/faq.php:64
+#: patterns/faq.php:64 zip/noon/patterns/faq.php:64
 msgid "Do I need to know how to code to use Full Site Editing?"
 msgstr ""
 
-#: patterns/faq.php:68
+#: patterns/faq.php:68 zip/noon/patterns/faq.php:68
 msgid ""
 "No, Full Site Editing does not require knowledge of coding or web "
 "development. The drag-and-drop interface and pre-designed templates make it "
@@ -309,7 +325,21 @@ msgstr ""
 
 #: patterns/feature-boxes-contrast.php:18 patterns/feature-boxes.php:18
 #: patterns/image-and-text-and-columns.php:28
-msgid "<?php echo esc_html__( "
+#: zip/noon/patterns/feature-boxes-contrast.php:18
+#: zip/noon/patterns/feature-boxes.php:18
+#: zip/noon/patterns/image-and-text-and-columns.php:28
+msgid "Section Title Goes Here"
+msgstr ""
+
+#: patterns/feature-boxes-contrast.php:22 patterns/feature-boxes.php:22
+#: patterns/image-and-text-and-columns.php:32 patterns/team-members.php:22
+#: zip/noon/patterns/feature-boxes-contrast.php:22
+#: zip/noon/patterns/feature-boxes.php:22
+#: zip/noon/patterns/image-and-text-and-columns.php:32
+#: zip/noon/patterns/team-members.php:22
+msgid ""
+"Contrary to popular belief, Lorem Ipsum is not simply random text . It has "
+"roots in a piece of classical Latin literature from 45 BC over 2000 years . "
 msgstr ""
 
 #: patterns/feature-boxes-contrast.php:31
@@ -320,6 +350,16 @@ msgstr ""
 #: patterns/feature-boxes-contrast.php:183 patterns/feature-boxes.php:31
 #: patterns/feature-icon-boxe.php:31 patterns/feature-icon-boxe.php:53
 #: patterns/feature-icon-boxe.php:75
+#: zip/noon/patterns/feature-boxes-contrast.php:31
+#: zip/noon/patterns/feature-boxes-contrast.php:61
+#: zip/noon/patterns/feature-boxes-contrast.php:91
+#: zip/noon/patterns/feature-boxes-contrast.php:123
+#: zip/noon/patterns/feature-boxes-contrast.php:153
+#: zip/noon/patterns/feature-boxes-contrast.php:183
+#: zip/noon/patterns/feature-boxes.php:31
+#: zip/noon/patterns/feature-icon-boxe.php:31
+#: zip/noon/patterns/feature-icon-boxe.php:53
+#: zip/noon/patterns/feature-icon-boxe.php:75
 msgid "Easy Customization"
 msgstr ""
 
@@ -329,6 +369,12 @@ msgstr ""
 #: patterns/feature-boxes-contrast.php:127
 #: patterns/feature-boxes-contrast.php:157
 #: patterns/feature-boxes-contrast.php:187
+#: zip/noon/patterns/feature-boxes-contrast.php:35
+#: zip/noon/patterns/feature-boxes-contrast.php:65
+#: zip/noon/patterns/feature-boxes-contrast.php:95
+#: zip/noon/patterns/feature-boxes-contrast.php:127
+#: zip/noon/patterns/feature-boxes-contrast.php:157
+#: zip/noon/patterns/feature-boxes-contrast.php:187
 msgid ""
 "Add your splash of colors, pick your header, choose your favorite font — all "
 "with a few quick clicks. No coding skills required."
@@ -341,13 +387,17 @@ msgstr ""
 
 #: patterns/feature-boxes.php:35 patterns/feature-icon-boxe.php:35
 #: patterns/feature-icon-boxe.php:57 patterns/feature-icon-boxe.php:79
+#: zip/noon/patterns/feature-boxes.php:35
+#: zip/noon/patterns/feature-icon-boxe.php:35
+#: zip/noon/patterns/feature-icon-boxe.php:57
+#: zip/noon/patterns/feature-icon-boxe.php:79
 msgid ""
 "Customize your style with a few clicks. No coding expertise needed, choose "
 "your header, apply colors and select your favorite font to create a unique "
 "look."
 msgstr ""
 
-#: patterns/feature-boxes.php:61
+#: patterns/feature-boxes.php:61 zip/noon/patterns/feature-boxes.php:61
 msgid "Multiple Header Styles"
 msgstr ""
 
@@ -432,14 +482,17 @@ msgid "Hero Call To Action Buttons"
 msgstr ""
 
 #: patterns/hero-call-to-action-buttons.php:20
+#: zip/noon/patterns/hero-call-to-action-buttons.php:20
 msgid "Skip the Code"
 msgstr "تخطى البرمجة"
 
 #: patterns/hero-call-to-action-buttons.php:24
+#: zip/noon/patterns/hero-call-to-action-buttons.php:24
 msgid "Build Your Site with Simple Clicks"
 msgstr "أنشئ موقعك بكل سهولة"
 
 #: patterns/hero-call-to-action-buttons.php:29
+#: zip/noon/patterns/hero-call-to-action-buttons.php:29
 msgid ""
 "Craft stunning, customizable websites with WordPress Site Editor and Noon "
 "block theme. No coding needed!"
@@ -448,8 +501,9 @@ msgstr ""
 "حاجة للبرمجة!"
 
 #: patterns/hero-call-to-action-buttons.php:36
+#: zip/noon/patterns/hero-call-to-action-buttons.php:36
 msgid "Download Noon"
-msgstr ""
+msgstr "تحميل نون"
 
 #: patterns/hero-start.php
 msgctxt "Pattern title"
@@ -516,6 +570,28 @@ msgctxt "Pattern title"
 msgid "Post navigation"
 msgstr ""
 
+#: patterns/post-with-sidebar-footer.php
+msgctxt "Pattern title"
+msgid "Post with sidebar footer"
+msgstr ""
+
+#: patterns/post-with-sidebar-header.php
+msgctxt "Pattern title"
+msgid "Post with sidebar header"
+msgstr ""
+
+#: patterns/post-with-sidebar-header.php:34
+msgid "By"
+msgstr "بواسطة"
+
+#: patterns/post-with-sidebar-header.php:42
+msgid ",on"
+msgstr ",في"
+
+#: patterns/post-with-sidebar-header.php:52
+msgid "Share"
+msgstr "مشاركة"
+
 #: patterns/pricing-page.php
 msgctxt "Pattern title"
 msgid "Pricing Page"
@@ -531,7 +607,7 @@ msgctxt "Pattern title"
 msgid "Sidebar"
 msgstr ""
 
-#: patterns/sidebar.php:18
+#: patterns/sidebar.php:18 zip/noon/patterns/sidebar.php:18
 msgid "Need Assistance?"
 msgstr ""
 
