@@ -19,7 +19,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( '<?php echo esc_html__( 'Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . ', 'noon' ); ?>', 'noon' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . ', 'noon' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

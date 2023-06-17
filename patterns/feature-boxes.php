@@ -15,11 +15,11 @@
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px"},"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"},"blockGap":"var:preset|spacing|large"}},"className":"feature-boxes","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull feature-boxes" style="margin-top:0px;padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( '<?php echo esc_html__( 'Section Title Goes Here', 'noon' ); ?>', 'noon' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center"><?php echo esc_html__( 'Section Title Goes Here', 'noon' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( '<?php echo esc_html__( 'Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . ', 'noon' ); ?>', 'noon' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . ', 'noon' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
