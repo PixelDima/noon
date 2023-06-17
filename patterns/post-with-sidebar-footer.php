@@ -2,12 +2,12 @@
 /**
  * Title: Post with sidebar footer
  * Slug: noon/post-with-sidebar-footer
- * Description: 
+ * Description:
  * Categories: noon, post
  * Keywords: sidebar, post
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 
@@ -17,7 +17,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p>Share</p>
+<p><?php echo esc_html__( 'Share', 'noon' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"iconColor":"inherit","iconColorValue":"inherit","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"className":"has-icon-color is-style-logos-only","layout":{"type":"flex","justifyContent":"right"}} -->
