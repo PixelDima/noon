@@ -7,7 +7,7 @@
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  */
 
-define( 'NOON_VERSION', '0.1.1' );
+define( 'NOON_VERSION', '0.1.2' );
 define( 'NOON_MINIMUM_WP_VERSION', '5.4' );
 define( 'NOON_MINIMUM_PHP_VERSION', '7.0' );
 
