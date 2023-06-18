@@ -3,7 +3,7 @@
  * Title: Sidebar
  * Slug: noon/sidebar
  * Description:
- * Categories: noon, post
+ * Categories: noon, posts
  * Keywords: sidebar, post
  * Viewport Width: 1280
  * Block Types:

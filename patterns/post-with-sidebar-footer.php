@@ -3,7 +3,7 @@
  * Title: Post with sidebar footer
  * Slug: noon/post-with-sidebar-footer
  * Description:
- * Categories: noon, post
+ * Categories: noon, posts
  * Keywords: sidebar, post
  * Viewport Width: 1280
  * Block Types:
