@@ -254,17 +254,17 @@
 			"fluid": true,
 			"fontFamilies": [
 				{
-					"fontFamily": "Mona Sans, Operator Mono, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, monospace",
+					"fontFamily": "Mona Sans,Mona Sans Fallback, Inconsolata, Fira Mono, ui-monospace, SF Mono, Monaco, Droid Sans Mono, Source Code Pro, monospace",
 					"name": "Body",
 					"slug": "body",
 					"fontFace": [
 						{
 							"fontDisplay": "block",
-							"fontFamily": "Mona",
+							"fontFamily": "Mona Sans",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
 							"fontWeight": "100 900",
-							"src": ["file:./assets/fonts/Mona-Sans.woff2"]
+							"src": ["file:./assets/fonts/mona-sans.var.woff2"]
 						}
 					]
 				},
