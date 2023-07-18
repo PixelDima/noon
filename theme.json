@@ -7,10 +7,6 @@
 			"title": "Blank"
 		},
 		{
-			"name": "no-title",
-			"title": "No Title"
-		},
-		{
 			"title": "Single + Sidebar",
 			"name": "single-sidebar",
 			"postTypes": [
