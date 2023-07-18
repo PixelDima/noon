@@ -5,6 +5,7 @@ module.exports = () => {
 		syntax: 'postcss-scss',
 		parser: 'postcss-scss',
 		plugins: [
+			require('@wordpress/postcss-plugins-preset'),
 			minmax(),
 			require('postcss-calc'),
 			require( 'postcss-jit-props' )( require( 'open-props' ) ),
