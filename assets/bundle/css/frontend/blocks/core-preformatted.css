@@ -1,15 +1,12 @@
-
-
+:root {}
 :root {}
 /* Preformatted
 --------------------------------------------- */
-
 .wp-block-preformatted {
 	word-wrap: normal;
 	overflow-x: scroll;
 	white-space: pre;
 }
-
 .wp-block-preformatted.is-style-preformatted-dark,
 .editor-styles-wrapper .wp-block-preformatted.is-style-preformatted-dark {
 	background-color: var(--wp--preset--color--contrast-3);

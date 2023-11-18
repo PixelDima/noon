@@ -11,3 +11,4 @@ zip/*
 .vscode/launch.json
 noon.code-workspace
 pnpm-lock.yaml
+**/*.asset.php

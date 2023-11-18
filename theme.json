@@ -9,16 +9,12 @@
 		{
 			"title": "Single + Sidebar",
 			"name": "single-sidebar",
-			"postTypes": [
-				"post"
-			]
+			"postTypes": ["post"]
 		},
 		{
 			"title": "Page [Without Title]",
 			"name": "page-without-title",
-			"postTypes": [
-				"page"
-			]
+			"postTypes": ["page"]
 		}
 	],
 	"settings": {
@@ -90,7 +86,6 @@
 					"name": "Dark",
 					"slug": "noon-gradient-dark"
 				}
-
 			],
 			"palette": [
 				{
@@ -771,8 +766,7 @@
 				}
 			},
 			"cite": {
-				"typography": {
-				}
+				"typography": {}
 			},
 			"heading": {
 				"color": {

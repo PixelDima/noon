@@ -2,9 +2,9 @@
 /**
  * Title: footer base with shadow.
  * Slug: noon/footer-base-with-shadow
- * Description: 
+ * Description:
  * Categories: footer, noon
- * Keywords: 
+ * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/footer
  * Post Types: wp_template

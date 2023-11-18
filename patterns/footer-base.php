@@ -2,9 +2,9 @@
 /**
  * Title: footer base.
  * Slug: noon/footer-base
- * Description: 
+ * Description:
  * Categories: footer, noon
- * Keywords: 
+ * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/footer
  * Post Types: wp_template

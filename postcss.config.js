@@ -8,7 +8,7 @@ module.exports = () => {
 			require('@wordpress/postcss-plugins-preset'),
 			minmax(),
 			require('postcss-calc'),
-			require( 'postcss-jit-props' )( require( 'open-props' ) ),
+			require('postcss-jit-props')(require('open-props')),
 			require('postcss-dima-rtl'),
 			require('postcss-simple-vars'),
 			require('postcss-nested'),

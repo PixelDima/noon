@@ -47,8 +47,8 @@ module.exports = (env) => {
 						},
 					},
 				],
-			} ),
-			new ZipPlugin( {
+			}),
+			new ZipPlugin({
 				// Defaults to the Webpack output path.
 				path: './',
 				filename: 'noon.zip',
@@ -63,7 +63,7 @@ module.exports = (env) => {
 				zipOptions: {
 					forceZip64Format: false,
 				},
-			} ),
+			}),
 		],
 	};
 };

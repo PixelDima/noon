@@ -1,28 +1,18 @@
-
-
-
+:root{}
 :root{}
 /* Quote
 --------------------------------------------- */
-
-
 figure.wp-block-pullquote{
     position: relative;
 }
-
-
 figure.wp-block-pullquote cite {
 		opacity: 0.7;
 	}
-
-
 figure.wp-block-pullquote:after {
     top: -2px; 
     left: 50%;
     transform: translate(-50%,-50%);
 }
-
-
 figure.wp-block-pullquote::after {
         content: '"';
         position: absolute;

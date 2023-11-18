@@ -2,9 +2,9 @@
 /**
  * Title: header default
  * Slug: noon/header-default
- * Description: 
+ * Description:
  * Categories: noon, header
- * Keywords: 
+ * Keywords:
  * Viewport Width: 1280
  * Block Types: core/template-part/header
  * Post Types: wp_template

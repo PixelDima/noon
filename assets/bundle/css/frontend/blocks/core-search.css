@@ -1,4 +1,5 @@
 :root {}
+:root {}
 :where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) {
 	border-color: var(--wp--preset--color--base-2);
 } 

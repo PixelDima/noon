@@ -6,8 +6,8 @@
  * Categories: pages, noon
  * Keywords: page, layout, design, template, home
  * Viewport Width: 1280
- * Block Types: 
- * Post Types: 
+ * Block Types:
+ * Post Types:
  * Inserter: true
  */
 
