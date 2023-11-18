@@ -1,7 +1,7 @@
 {
     "name": "noon",
     "private": true,
-    "version": "0.1.2",
+    "version": "0.1.3",
     "prettier": "@wordpress/prettier-config",
     "dependencies": {
         "@wordpress/postcss-plugins-preset": "^4.30.0",
