@@ -25,11 +25,11 @@
 <!-- wp:column {"verticalAlignment":"center","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small","margin":{"top":"0","bottom":"0"},"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-primary-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading -->
-<h2 class="wp-block-heading"><?php echo esc_html__( 'Section Title Goes Here', 'noon' ); ?></h2>
+<h2 class="wp-block-heading"><?php echo esc_html__( 'Section Title Goes Here', 'noon-theme' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . ', 'noon' ); ?></p>
+<p><?php echo esc_html__( 'Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . ', 'noon-theme' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

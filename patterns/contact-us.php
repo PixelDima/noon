@@ -15,8 +15,8 @@
 <!-- wp:cover {"overlayColor":"base-1","minHeight":20,"minHeightUnit":"rem","contentPosition":"center center","isDark":false,"tagName":"header","align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|large","bottom":"0","right":"0","left":"0"}}}} -->
 <header class="wp-block-cover alignfull is-light" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--large);padding-right:0;padding-bottom:0;padding-left:0;min-height:20rem"><span aria-hidden="true" class="wp-block-cover__background has-base-1-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","right":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}}},"textColor":"contrast-3","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-contrast-3-color has-text-color" style="padding-top:0;padding-right:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:heading {"textAlign":"center","level":1,"align":"wide"} -->
-<h1 class="wp-block-heading alignwide has-text-align-center"><?php echo esc_html__( 'Share Your Feedback', 'noon' ); ?>
-<br><?php echo esc_html__( 'We Love Hearing from You!', 'noon' ); ?>
+<h1 class="wp-block-heading alignwide has-text-align-center"><?php echo esc_html__( 'Share Your Feedback', 'noon-theme' ); ?>
+<br><?php echo esc_html__( 'We Love Hearing from You!', 'noon-theme' ); ?>
 </h1>
 <!-- /wp:heading --></div>
 <!-- /wp:group --></div></header>
@@ -28,12 +28,12 @@
 <div class="wp-block-columns alignwide" style="margin-top:0px;margin-bottom:0px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"width":"1px"}},"borderColor":"base-2","backgroundColor":"tertiary","className":"is-style-noon-shadow","layout":{"type":"default"}} -->
 <div class="wp-block-column is-style-noon-shadow has-border-color has-base-2-border-color has-tertiary-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"base"} -->
-<h3 class="wp-block-heading has-base-font-size"><?php echo esc_html__( 'Address', 'noon' ); ?>
+<h3 class="wp-block-heading has-base-font-size"><?php echo esc_html__( 'Address', 'noon-theme' ); ?>
 </h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"contrast-2","fontSize":"text-base"} -->
-<p class="has-contrast-2-color has-text-color has-text-base-font-size"><?php echo esc_html__( 'Craving a visit? Discover our handy-dandy location and drop by for a delightful experience.', 'noon' ); ?></p>
+<p class="has-contrast-2-color has-text-color has-text-base-font-size"><?php echo esc_html__( 'Craving a visit? Discover our handy-dandy location and drop by for a delightful experience.', 'noon-theme' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"base-2","className":"is-style-wide"} -->
@@ -41,7 +41,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:paragraph {"style":{"typography":{"textDecoration":"underline"}},"fontSize":"text-xl"} -->
-<p class="has-text-xl-font-size" style="text-decoration:underline"><a href="#"><?php echo esc_html__( '199 North Baronial St. Dorchester Center', 'noon' ); ?></a></p>
+<p class="has-text-xl-font-size" style="text-decoration:underline"><a href="#"><?php echo esc_html__( '199 North Baronial St. Dorchester Center', 'noon-theme' ); ?></a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -49,11 +49,11 @@
 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"width":"1px"}},"borderColor":"base-2","backgroundColor":"tertiary","className":"is-style-noon-shadow"} -->
 <div class="wp-block-column is-style-noon-shadow has-border-color has-base-2-border-color has-tertiary-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"base"} -->
-<h3 class="wp-block-heading has-base-font-size"><?php echo esc_html__( 'Email Address', 'noon' ); ?></h3>
+<h3 class="wp-block-heading has-base-font-size"><?php echo esc_html__( 'Email Address', 'noon-theme' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color"><?php echo esc_html__( 'Got a question? We\'re here to help! Send us a message and we\'ll get back to you soon.', 'noon' ); ?></p>
+<p class="has-contrast-2-color has-text-color"><?php echo esc_html__( 'Got a question? We\'re here to help! Send us a message and we\'ll get back to you soon.', 'noon-theme' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"base-2","className":"is-style-wide"} -->
@@ -69,11 +69,11 @@
 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|medium","right":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|medium"}},"border":{"width":"1px"}},"borderColor":"base-2","backgroundColor":"tertiary","className":"is-style-noon-shadow"} -->
 <div class="wp-block-column is-style-noon-shadow has-border-color has-base-2-border-color has-tertiary-background-color has-background" style="border-width:1px;padding-top:var(--wp--preset--spacing--medium);padding-right:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"level":3,"fontSize":"base"} -->
-<h3 class="wp-block-heading has-base-font-size"><?php echo esc_html__( 'Phone Numbers', 'noon' ); ?></h3>
+<h3 class="wp-block-heading has-base-font-size"><?php echo esc_html__( 'Phone Numbers', 'noon-theme' ); ?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color"><?php echo esc_html__( 'Looking for someone to talk to? Reach out to us at our dedicated helpline and we\'ll lend an ear.', 'noon' ); ?></p>
+<p class="has-contrast-2-color has-text-color"><?php echo esc_html__( 'Looking for someone to talk to? Reach out to us at our dedicated helpline and we\'ll lend an ear.', 'noon-theme' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"base-2","className":"is-style-wide"} -->

@@ -29,7 +29,7 @@
 <!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"right"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"border":{"radius":"50px"}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="border-radius:50px"><?php echo esc_html__( 'Read More', 'noon' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="border-radius:50px"><?php echo esc_html__( 'Read More', 'noon-theme' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>

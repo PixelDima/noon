@@ -36,44 +36,44 @@ class Styles implements Module_Interface {
 	function noon_register_block_styles() {
 		$block_styles = array(
 			'core/button'                    => array(
-				'secondary-button' => __( 'Secondary', 'noon' ),
+				'secondary-button' => __( 'Secondary', 'noon-theme' ),
 			),
 			'core/query-pagination-next'     => array(
-				'wp-block-button__link' => __( 'Button', 'noon' ),
+				'wp-block-button__link' => __( 'Button', 'noon-theme' ),
 			),
 			'core/query-pagination-previous' => array(
-				'wp-block-button__link' => __( 'Button', 'noon' ),
+				'wp-block-button__link' => __( 'Button', 'noon-theme' ),
 			),
 			'core/image'                     => array(
-				'm-0' => __( 'No Margin', 'noon' ),
+				'm-0' => __( 'No Margin', 'noon-theme' ),
 			),
 			'core/paragraph'                 => array(
-				'm-0' => __( 'No Margin', 'noon' ),
+				'm-0' => __( 'No Margin', 'noon-theme' ),
 			),
 			'core/separator'                 => array(
-				'separator-dotted' => __( 'Dotted', 'noon' ),
+				'separator-dotted' => __( 'Dotted', 'noon-theme' ),
 			),
 			'core/column'                    => array(
-				'noon-shadow'       => __( 'Noon Shadow', 'noon' ),
-				'noon-solid-shadow' => __( 'Solid Shadow', 'noon' ),
+				'noon-shadow'       => __( 'Noon Shadow', 'noon-theme' ),
+				'noon-solid-shadow' => __( 'Solid Shadow', 'noon-theme' ),
 			),
 			'core/group'                     => array(
-				'noon-shadow'       => __( 'Noon Shadow', 'noon' ),
-				'noon-solid-shadow' => __( 'Solid Shadow', 'noon' ),
+				'noon-shadow'       => __( 'Noon Shadow', 'noon-theme' ),
+				'noon-solid-shadow' => __( 'Solid Shadow', 'noon-theme' ),
 			),
 			'core/code'                      => array(
-				'contrast-code' => __( 'Contrast Style', 'noon' ),
+				'contrast-code' => __( 'Contrast Style', 'noon-theme' ),
 			),
 			'core/preformatted'              => array(
-				'preformatted-dark' => __( 'Contrast Style', 'noon' ),
+				'preformatted-dark' => __( 'Contrast Style', 'noon-theme' ),
 			),
 
 			'core/post-terms'                => array(
-				'tags' => __( 'Tags Style', 'noon' ),
+				'tags' => __( 'Tags Style', 'noon-theme' ),
 			),
 			'core/template-part/header'      => array(
-				'noon-header-transparent' => __( 'Transparent', 'noon' ),
-				'noon-header-default'     => __( 'Default', 'noon' ),
+				'noon-header-transparent' => __( 'Transparent', 'noon-theme' ),
+				'noon-header-default'     => __( 'Default', 'noon-theme' ),
 			),
 		);
 
