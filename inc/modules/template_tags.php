@@ -51,7 +51,7 @@ class Template_Tags {
 				throw new InvalidArgumentException(
 					sprintf(
 						/* translators: 1: classname/type of the variable, 2: interface name */
-						__( 'The theme templating module %1$s does not implement the %2$s interface.', 'noon-theme' ),
+						__( 'The theme templating module %1$s does not implement the %2$s interface.', 'thenoon' ),
 						gettype( $module ),
 						Templating_Module_Interface::class
 					)
@@ -78,7 +78,7 @@ class Template_Tags {
 			throw new BadMethodCallException(
 				sprintf(
 					/* translators: %s: template tag name */
-					__( 'The template tag %s does not exist.', 'noon-theme' ),
+					__( 'The template tag %s does not exist.', 'thenoon' ),
 					'noon()->' . $method . '()'
 				)
 			);
@@ -107,7 +107,7 @@ class Template_Tags {
 				throw new InvalidArgumentException(
 					sprintf(
 						/* translators: 1: template tag method name, 2: module class name */
-						__( 'The template tag method %1$s registered by theme module %2$s must either be a callable or an array.', 'noon-theme' ),
+						__( 'The template tag method %1$s registered by theme module %2$s must either be a callable or an array.', 'thenoon' ),
 						$method_name,
 						get_class( $module )
 					)
@@ -118,7 +118,7 @@ class Template_Tags {
 				throw new RuntimeException(
 					sprintf(
 						/* translators: 1: template tag method name, 2: module class name */
-						__( 'The template tag method %1$s registered by theme module %2$s conflicts with an already registered template tag of the same name.', 'noon-theme' ),
+						__( 'The template tag method %1$s registered by theme module %2$s conflicts with an already registered template tag of the same name.', 'thenoon' ),
 						$method_name,
 						get_class( $module )
 					)

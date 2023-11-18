@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.format.settings.url": ".vscode/java-formatter.xml"
+	}
+}

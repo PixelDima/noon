@@ -1,5 +1,5 @@
 {
-    "name": "noon-theme",
+    "name": "thenoon",
     "private": true,
     "version": "1.0.0",
     "prettier": "@wordpress/prettier-config",
@@ -54,7 +54,7 @@
         "lint:css": "wp-scripts lint-style",
         "lint:js": "wp-scripts lint-js",
         "lint": "eslint \"assets/**/*.{js,tsx,jsx}\" --quiet",
-        "zip": "rm -rf zip && ./node_modules/.bin/webpack --config ./webpack.zip.config.js --mode production",
+        "zip": "rm -rf zip && ./node_modules/.bin/webpack --config ./webpack.comp.config.js --mode production",
         "lint:pkg-json": "wp-scripts lint-pkg-json",
         "packages-update": "wp-scripts packages-update",
         "test:e2e": "wp-scripts test-e2e",

@@ -36,44 +36,44 @@ class Styles implements Module_Interface {
 	function noon_register_block_styles() {
 		$block_styles = array(
 			'core/button'                    => array(
-				'secondary-button' => __( 'Secondary', 'noon-theme' ),
+				'secondary-button' => __( 'Secondary', 'thenoon' ),
 			),
 			'core/query-pagination-next'     => array(
-				'wp-block-button__link' => __( 'Button', 'noon-theme' ),
+				'wp-block-button__link' => __( 'Button', 'thenoon' ),
 			),
 			'core/query-pagination-previous' => array(
-				'wp-block-button__link' => __( 'Button', 'noon-theme' ),
+				'wp-block-button__link' => __( 'Button', 'thenoon' ),
 			),
 			'core/image'                     => array(
-				'm-0' => __( 'No Margin', 'noon-theme' ),
+				'm-0' => __( 'No Margin', 'thenoon' ),
 			),
 			'core/paragraph'                 => array(
-				'm-0' => __( 'No Margin', 'noon-theme' ),
+				'm-0' => __( 'No Margin', 'thenoon' ),
 			),
 			'core/separator'                 => array(
-				'separator-dotted' => __( 'Dotted', 'noon-theme' ),
+				'separator-dotted' => __( 'Dotted', 'thenoon' ),
 			),
 			'core/column'                    => array(
-				'noon-shadow'       => __( 'Noon Shadow', 'noon-theme' ),
-				'noon-solid-shadow' => __( 'Solid Shadow', 'noon-theme' ),
+				'noon-shadow'       => __( 'Noon Shadow', 'thenoon' ),
+				'noon-solid-shadow' => __( 'Solid Shadow', 'thenoon' ),
 			),
 			'core/group'                     => array(
-				'noon-shadow'       => __( 'Noon Shadow', 'noon-theme' ),
-				'noon-solid-shadow' => __( 'Solid Shadow', 'noon-theme' ),
+				'noon-shadow'       => __( 'Noon Shadow', 'thenoon' ),
+				'noon-solid-shadow' => __( 'Solid Shadow', 'thenoon' ),
 			),
 			'core/code'                      => array(
-				'contrast-code' => __( 'Contrast Style', 'noon-theme' ),
+				'contrast-code' => __( 'Contrast Style', 'thenoon' ),
 			),
 			'core/preformatted'              => array(
-				'preformatted-dark' => __( 'Contrast Style', 'noon-theme' ),
+				'preformatted-dark' => __( 'Contrast Style', 'thenoon' ),
 			),
 
 			'core/post-terms'                => array(
-				'tags' => __( 'Tags Style', 'noon-theme' ),
+				'tags' => __( 'Tags Style', 'thenoon' ),
 			),
 			'core/template-part/header'      => array(
-				'noon-header-transparent' => __( 'Transparent', 'noon-theme' ),
-				'noon-header-default'     => __( 'Default', 'noon-theme' ),
+				'noon-header-transparent' => __( 'Transparent', 'thenoon' ),
+				'noon-header-default'     => __( 'Default', 'thenoon' ),
 			),
 		);
 

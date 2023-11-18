@@ -35,13 +35,13 @@ class Patterns implements Module_Interface {
 	function noon_register_block_pattern_categories() {
 
 		if ( function_exists( 'register_block_pattern_category_type' ) ) {
-			register_block_pattern_category_type( 'noon', array( 'label' => __( 'Noon Patterns', 'noon-theme' ) ) );
+			register_block_pattern_category_type( 'noon', array( 'label' => __( 'Noon Patterns', 'thenoon' ) ) );
 		}
 
 		$block_pattern_categories = array(
 			'noon' => array(
-				'label'         => __( 'Noon', 'noon-theme' ),
-				'categoryTypes' => array( 'noon-theme' ),
+				'label'         => __( 'Noon', 'thenoon' ),
+				'categoryTypes' => array( 'thenoon' ),
 			),
 		);
 

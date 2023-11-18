@@ -17,23 +17,23 @@
 <div class="wp-block-group alignfull has-base-color has-text-color" style="margin-top:0px;margin-bottom:0px;padding-right:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"600px"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"text-base"} -->
-<p class="has-text-align-center has-text-base-font-size" style="font-style:normal;font-weight:400"><?php echo esc_html__( 'Skip the Code', 'noon-theme' ); ?></p>
+<p class="has-text-align-center has-text-base-font-size" style="font-style:normal;font-weight:400"><?php echo esc_html__( 'Skip the Code', 'thenoon' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"lineHeight":"1.2"}},"fontSize":"text-6xl"} -->
-<h1 class="wp-block-heading has-text-align-center has-text-6-xl-font-size" style="line-height:1.2"><?php echo esc_html__( 'Build Your Site with Simple Clicks', 'noon-theme' ); ?></h1>
+<h1 class="wp-block-heading has-text-align-center has-text-6-xl-font-size" style="line-height:1.2"><?php echo esc_html__( 'Build Your Site with Simple Clicks', 'thenoon' ); ?></h1>
 <!-- /wp:heading -->
 
 <!-- wp:group {"layout":{"type":"constrained","contentSize":"450px"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|small"}}},"fontSize":"text-base"} -->
-<p class="has-text-align-center has-text-base-font-size" style="margin-top:var(--wp--preset--spacing--small)"><?php echo esc_html__( 'Craft stunning, customizable websites with WordPress Site Editor and Noon block theme. No coding needed!', 'noon-theme' ); ?></p>
+<p class="has-text-align-center has-text-base-font-size" style="margin-top:var(--wp--preset--spacing--small)"><?php echo esc_html__( 'Craft stunning, customizable websites with WordPress Site Editor and Noon block theme. No coding needed!', 'thenoon' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":"var:preset|spacing|small","margin":{"top":"var:preset|spacing|medium"}}}} -->
 <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--medium)"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://noonwp.com/#download" target="_blank" rel="noreferrer noopener"><?php echo esc_html__( 'Download Noon', 'noon-theme' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://noonwp.com/#download" target="_blank" rel="noreferrer noopener"><?php echo esc_html__( 'Download Noon', 'thenoon' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

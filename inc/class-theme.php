@@ -117,7 +117,7 @@ class Theme {
 				throw new InvalidArgumentException(
 					sprintf(
 					/* translators: 1: classname/type of the variable, 2: interface name */
-						__( 'The theme module %1$s does not implement the %2$s interface.', 'noon-theme' ),
+						__( 'The theme module %1$s does not implement the %2$s interface.', 'thenoon' ),
 						gettype( $module ),
 						Module_Interface::class
 					)
@@ -176,7 +176,7 @@ class Theme {
 	 */
 	public function __clone() {
 		// Cloning instances of the class is forbidden.
-		_doing_it_wrong( __FUNCTION__, esc_html__( 'Something went wrong.', 'noon-theme' ), '1.0' );
+		_doing_it_wrong( __FUNCTION__, esc_html__( 'Something went wrong.', 'thenoon' ), '1.0' );
 	}
 
 	/**
@@ -186,7 +186,7 @@ class Theme {
 	 */
 	public function __wakeup() {
 		// Unserializing instances of the class is forbidden.
-		_doing_it_wrong( __FUNCTION__, esc_html__( 'Something went wrong.', 'noon-theme' ), '1.0' );
+		_doing_it_wrong( __FUNCTION__, esc_html__( 'Something went wrong.', 'thenoon' ), '1.0' );
 	}
 
 
@@ -232,7 +232,7 @@ class Theme {
 			throw new InvalidArgumentException(
 				sprintf(
 				/* translators: %s: slug */
-					__( 'No theme module with the slug %s exists.', 'noon-theme' ),
+					__( 'No theme module with the slug %s exists.', 'thenoon' ),
 					$slug
 				)
 			);

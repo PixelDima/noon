@@ -16,7 +16,7 @@ module.exports = (env) => {
 				patterns: [
 					{
 						from: './**',
-						to: './noon',
+						to: './thenoon',
 						globOptions: {
 							dot: false,
 							gitignore: false,
@@ -51,7 +51,7 @@ module.exports = (env) => {
 			new ZipPlugin({
 				// Defaults to the Webpack output path.
 				path: './',
-				filename: 'noon.zip',
+				filename: 'thenoon.zip',
 				extension: 'zip',
 				pathPrefix: '',
 				fileOptions: {

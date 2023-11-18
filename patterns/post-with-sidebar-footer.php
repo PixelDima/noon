@@ -17,7 +17,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
 <div class="wp-block-group"><!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Share', 'noon-theme' ); ?></p>
+<p><?php echo esc_html__( 'Share', 'thenoon' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"iconColor":"inherit","iconColorValue":"inherit","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"className":"has-icon-color is-style-logos-only","layout":{"type":"flex","justifyContent":"right"}} -->
