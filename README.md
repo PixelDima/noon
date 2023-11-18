@@ -18,8 +18,16 @@ Visit [noonwp.com](https://noonwp.com) to explore more about Noon and its capabi
 
 
 ## Supports RTL languages
+Noon embraces diversity by providing robust support for Right-to-Left (RTL) languages. Whether your content is in Arabic, or any other RTL language, Noon ensures a seamless and visually pleasing experience. Enjoy creating content that caters to a global audience with Noon's RTL language support.
 
 https://github-production-user-asset-6210df.s3.amazonaws.com/3769804/284023601-59f5e514-6385-4d89-9a21-9d9be9af8e42.mp4
+
+## Global Styles
+Global Styles is your go-to space in the Site Editor for tweaking all the styles that give your site its unique vibe. Whether it's playing with typography, experimenting with fonts, or fine-tuning button and link colors, Global Styles lets you effortlessly customize your site's appearance.
+
+Under the hood, Global Styles is driven by a `theme.json` file nestled in the heart of your theme folder. This nifty configuration file empowers you to set both site-wide and block-specific styles, giving you full control through the user-friendly Global Styles interface.
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/3769804/284023942-d25f324e-f40c-4e6a-aa7d-c103b47a6724.mp4
 
 
 ## Requirements
