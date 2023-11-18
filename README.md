@@ -1,5 +1,25 @@
-# Noon
-The ultimate WordPress theme for website builders.
+# The Noon - A WordPress Block Theme
+
+![Image](https://res.cloudinary.com/dvz1685md/image/upload/v1700341402/social-share-image_yjoosp.png)
+
+Noon, a fresh and vibrant WordPress block theme brought to you by [PixelDima](https://noonwp.com). Noon is designed for seamless integration with the WordPress block editor and site editor, making it easy to craft beautiful, personalized websites without the need for complex page builders or coding skills.
+
+With a collection of over 40+ stunning patterns, page templates, block styles, and variations, Noon empowers you to design eye-catching pages effortlessly using a simple drag-and-drop interface. Fast, customizable via the WordPress UI, and fully responsive from the get-go, Noon ensures top-notch performance, scoring 100% across all performance metrics.
+
+Visit [noonwp.com](https://noonwp.com) to explore more about Noon and its capabilities. My aim is to guide both seasoned and new WordPress creators in unlocking the full potential of WordPress's latest features. Feel free to dive into the code and gain insights into crafting WordPress block themes. ✌️
+
+## Getting Started with Noon
+
+| Links  | Description |
+| ------------- | ------------- |
+| [View Noon Demo](https://demo.noonwp.com)  | Check out a full live demo of the Noon theme.  |
+| [View Noon RTL Demo](https://demo.noonwp.com/rtl)  | Check out a full live demo of the RTL Noon theme.  |
+| [Download Noon Theme Zip](https://github.com/pixeldima/noon/releases/latest/download/thenoon.zip)  | Download the latest noon theme zip to install on your WordPress site.  |
+
+
+## Supports RTL languages
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/3769804/284023601-59f5e514-6385-4d89-9a21-9d9be9af8e42.mp4
 
 
 ## Requirements
