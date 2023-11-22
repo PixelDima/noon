@@ -1,5 +1,5 @@
 === Noon WordPress Block Theme ===
-Contributors: pixeldima,adeltahri,ahmeddima
+Contributors: noonwp,adeltahri,ahmeddima
 Tags: blog, portfolio, entertainment, grid-layout, one-column, two-columns, three-columns, four-columns, accessibility-ready, block-patterns, block-styles, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, full-width-template, rtl-language-support, style-variations, template-editing, theme-options, translation-ready, wide-blocks, RTL
 Requires at least: 5.9
 Tested up to: 6.4
@@ -25,5 +25,5 @@ Launch a blazing-fast, pixel-perfect website with the Noon WordPress block theme
 
 == Copyright ==
 
-Noon Theme, (C) 2023 PixelDima,
+Noon Theme, (C) 2023 NoonBlock,
 Noon is distributed under the terms of the GNU GPL.

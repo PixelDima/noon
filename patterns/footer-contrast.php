@@ -107,7 +107,7 @@
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|small","padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}},"border":{"top":{"color":"var:preset|color|contrast-2","width":"1px"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="border-top-color:var(--wp--preset--color--contrast-2);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:paragraph {"textColor":"inherit","fontSize":"small"} -->
-<p class="has-inherit-color has-text-color has-small-font-size">© 2023 Noon Block Theme by <a href="https://pixeldima.com">PixelDima</a></p>
+<p class="has-inherit-color has-text-color has-small-font-size">© 2023 Noon Block Theme by <a href="https://noonwp.com">NoonBlock</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:social-links {"iconColor":"base-1","iconColorValue":"#F8F9FA","iconBackgroundColor":"contrast-3","iconBackgroundColorValue":"#212529","style":{"spacing":{"blockGap":{"top":"0","left":"0"}}},"className":"is-style-default","layout":{"type":"flex","flexWrap":"wrap"}} -->

@@ -1,181 +1,178 @@
-# Copyright (C) 2023 PixelDima
-# This file is distributed under the GNU General Public License v2 or later..
 msgid ""
 msgstr ""
-"Project-Id-Version: Noon 0.1.2\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/noon\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: TheNoon 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/thenoon\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-06-17T23:27:25+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.7.1\n"
-"X-Domain: noon\n"
+"POT-Creation-Date: 2023-11-22T11:49:01+00:00\n"
+"PO-Revision-Date: 2023-11-22T11:49:01+00:00\n"
+"Language: en_US\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: thenoon\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Theme Name of the theme
-#: inc/modules/blocks/patterns.php:43
-#: zip/noon/inc/modules/blocks/patterns.php:43
-msgid "Noon"
-msgstr ""
+msgid "TheNoon"
+msgstr "TheNoon"
 
 #. Theme URI of the theme
-#. Author URI of the theme
-msgid "https://pixeldima.com/"
-msgstr ""
+msgid "noonwp.com"
+msgstr "noonwp.com"
 
 #. Description of the theme
 msgid "A block theme."
-msgstr ""
+msgstr "A block theme."
 
 #. Author of the theme
-msgid "PixelDima"
-msgstr ""
+msgid "noonwp, adeltahri, ahmeddima"
+msgstr "noonwp, adeltahri, ahmeddima"
 
 #. translators: 1: classname/type of the variable, 2: interface name
 #: inc/class-theme.php:120
-#: zip/noon/inc/class-theme.php:120
+#: zip/thenoon/inc/class-theme.php:120
 msgid "The theme module %1$s does not implement the %2$s interface."
-msgstr ""
+msgstr "The theme module %1$s does not implement the %2$s interface."
 
 #: inc/class-theme.php:179
 #: inc/class-theme.php:189
-#: zip/noon/inc/class-theme.php:179
-#: zip/noon/inc/class-theme.php:189
+#: zip/thenoon/inc/class-theme.php:179
+#: zip/thenoon/inc/class-theme.php:189
 msgid "Something went wrong."
-msgstr ""
+msgstr "Something went wrong."
 
 #. translators: %s: slug
 #: inc/class-theme.php:235
-#: zip/noon/inc/class-theme.php:235
+#: zip/thenoon/inc/class-theme.php:235
 msgid "No theme module with the slug %s exists."
-msgstr ""
+msgstr "No theme module with the slug %s exists."
 
-#: inc/modules/blocks/patterns.php:38
-#: zip/noon/inc/modules/blocks/patterns.php:38
-msgid "Noon Patterns"
-msgstr ""
+#: inc/modules/blocks/patterns.php:43
+#: zip/thenoon/inc/modules/blocks/patterns.php:43
+msgid "Noon"
+msgstr "Noon"
 
 #: inc/modules/blocks/styles.php:39
-#: zip/noon/inc/modules/blocks/styles.php:39
+#: zip/thenoon/inc/modules/blocks/styles.php:39
 msgid "Secondary"
-msgstr ""
+msgstr "Secondary"
 
 #: inc/modules/blocks/styles.php:42
 #: inc/modules/blocks/styles.php:45
-#: zip/noon/inc/modules/blocks/styles.php:42
-#: zip/noon/inc/modules/blocks/styles.php:45
+#: zip/thenoon/inc/modules/blocks/styles.php:42
+#: zip/thenoon/inc/modules/blocks/styles.php:45
 msgid "Button"
-msgstr ""
+msgstr "Button"
 
 #: inc/modules/blocks/styles.php:48
 #: inc/modules/blocks/styles.php:51
-#: zip/noon/inc/modules/blocks/styles.php:48
-#: zip/noon/inc/modules/blocks/styles.php:51
+#: zip/thenoon/inc/modules/blocks/styles.php:48
+#: zip/thenoon/inc/modules/blocks/styles.php:51
 msgid "No Margin"
-msgstr ""
+msgstr "No Margin"
 
 #: inc/modules/blocks/styles.php:54
-#: zip/noon/inc/modules/blocks/styles.php:54
+#: zip/thenoon/inc/modules/blocks/styles.php:54
 msgid "Dotted"
-msgstr ""
+msgstr "Dotted"
 
 #: inc/modules/blocks/styles.php:57
 #: inc/modules/blocks/styles.php:61
-#: zip/noon/inc/modules/blocks/styles.php:57
-#: zip/noon/inc/modules/blocks/styles.php:61
+#: zip/thenoon/inc/modules/blocks/styles.php:57
+#: zip/thenoon/inc/modules/blocks/styles.php:61
 msgid "Noon Shadow"
-msgstr ""
+msgstr "Noon Shadow"
 
 #: inc/modules/blocks/styles.php:58
 #: inc/modules/blocks/styles.php:62
-#: zip/noon/inc/modules/blocks/styles.php:58
-#: zip/noon/inc/modules/blocks/styles.php:62
+#: zip/thenoon/inc/modules/blocks/styles.php:58
+#: zip/thenoon/inc/modules/blocks/styles.php:62
 msgid "Solid Shadow"
-msgstr ""
+msgstr "Solid Shadow"
 
 #: inc/modules/blocks/styles.php:65
 #: inc/modules/blocks/styles.php:68
-#: zip/noon/inc/modules/blocks/styles.php:65
-#: zip/noon/inc/modules/blocks/styles.php:68
+#: zip/thenoon/inc/modules/blocks/styles.php:65
+#: zip/thenoon/inc/modules/blocks/styles.php:68
 msgid "Contrast Style"
-msgstr ""
+msgstr "Contrast Style"
 
 #: inc/modules/blocks/styles.php:72
-#: zip/noon/inc/modules/blocks/styles.php:72
+#: zip/thenoon/inc/modules/blocks/styles.php:72
 msgid "Tags Style"
-msgstr ""
+msgstr "Tags Style"
 
 #: inc/modules/blocks/styles.php:75
-#: zip/noon/inc/modules/blocks/styles.php:75
+#: zip/thenoon/inc/modules/blocks/styles.php:75
 msgid "Transparent"
-msgstr ""
+msgstr "Transparent"
 
 #: inc/modules/blocks/styles.php:76
-#: zip/noon/inc/modules/blocks/styles.php:76
+#: zip/thenoon/inc/modules/blocks/styles.php:76
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #. translators: %s: stylesheet handle
 #: inc/modules/styles/style.php:225
-#: zip/noon/inc/modules/styles/style.php:225
+#: zip/thenoon/inc/modules/styles/style.php:225
 msgid "Invalid theme stylesheet handle: %s"
-msgstr ""
+msgstr "Invalid theme stylesheet handle: %s"
 
 #. translators: 1: classname/type of the variable, 2: interface name
 #: inc/modules/template_tags.php:54
-#: zip/noon/inc/modules/template_tags.php:54
+#: zip/thenoon/inc/modules/template_tags.php:54
 msgid "The theme templating module %1$s does not implement the %2$s interface."
-msgstr ""
+msgstr "The theme templating module %1$s does not implement the %2$s interface."
 
 #. translators: %s: template tag name
 #: inc/modules/template_tags.php:81
-#: zip/noon/inc/modules/template_tags.php:81
+#: zip/thenoon/inc/modules/template_tags.php:81
 msgid "The template tag %s does not exist."
-msgstr ""
+msgstr "The template tag %s does not exist."
 
 #. translators: 1: template tag method name, 2: module class name
 #: inc/modules/template_tags.php:110
-#: zip/noon/inc/modules/template_tags.php:110
+#: zip/thenoon/inc/modules/template_tags.php:110
 msgid "The template tag method %1$s registered by theme module %2$s must either be a callable or an array."
-msgstr ""
+msgstr "The template tag method %1$s registered by theme module %2$s must either be a callable or an array."
 
 #. translators: 1: template tag method name, 2: module class name
 #: inc/modules/template_tags.php:121
-#: zip/noon/inc/modules/template_tags.php:121
+#: zip/thenoon/inc/modules/template_tags.php:121
 msgid "The template tag method %1$s registered by theme module %2$s conflicts with an already registered template tag of the same name."
-msgstr ""
+msgstr "The template tag method %1$s registered by theme module %2$s conflicts with an already registered template tag of the same name."
 
 #: patterns/404.php
 msgctxt "Pattern title"
 msgid "404 error content."
-msgstr ""
+msgstr "404 error content."
 
 #: patterns/blog-classic.php
 msgctxt "Pattern title"
 msgid "Blog classic"
-msgstr ""
+msgstr "Blog classic"
 
 #: patterns/blog-post-card.php
 msgctxt "Pattern title"
 msgid "Blog Post Card"
-msgstr ""
+msgstr "Blog Post Card"
 
 #: patterns/blog-post-columns.php
 msgctxt "Pattern title"
 msgid "Blog Post Columns"
-msgstr ""
+msgstr "Blog Post Columns"
 
 #: patterns/call-to-action-card-boxed.php
 msgctxt "Pattern title"
 msgid "Call to action card boxed"
-msgstr ""
+msgstr "Call to action card boxed"
 
 #: patterns/call-to-action-card-boxed.php
 msgctxt "Pattern description"
 msgid "You can use this pattern to create a call to action card with a boxed layout."
-msgstr ""
+msgstr "You can use this pattern to create a call to action card with a boxed layout."
 
 #: patterns/call-to-action-card-boxed.php:32
 #: patterns/call-to-action-card.php:32
@@ -192,170 +189,170 @@ msgstr ""
 #: patterns/feature-boxes.php:138
 #: patterns/feature-boxes.php:168
 #: patterns/feature-boxes.php:198
-#: zip/noon/patterns/call-to-action-card-boxed.php:32
-#: zip/noon/patterns/call-to-action-card.php:32
-#: zip/noon/patterns/call-to-action-full-width-dark.php:32
-#: zip/noon/patterns/feature-boxes-contrast.php:46
-#: zip/noon/patterns/feature-boxes-contrast.php:76
-#: zip/noon/patterns/feature-boxes-contrast.php:106
-#: zip/noon/patterns/feature-boxes-contrast.php:138
-#: zip/noon/patterns/feature-boxes-contrast.php:168
-#: zip/noon/patterns/feature-boxes-contrast.php:198
-#: zip/noon/patterns/feature-boxes.php:46
-#: zip/noon/patterns/feature-boxes.php:76
-#: zip/noon/patterns/feature-boxes.php:106
-#: zip/noon/patterns/feature-boxes.php:138
-#: zip/noon/patterns/feature-boxes.php:168
-#: zip/noon/patterns/feature-boxes.php:198
+#: zip/thenoon/patterns/call-to-action-card-boxed.php:32
+#: zip/thenoon/patterns/call-to-action-card.php:32
+#: zip/thenoon/patterns/call-to-action-full-width-dark.php:32
+#: zip/thenoon/patterns/feature-boxes-contrast.php:46
+#: zip/thenoon/patterns/feature-boxes-contrast.php:76
+#: zip/thenoon/patterns/feature-boxes-contrast.php:106
+#: zip/thenoon/patterns/feature-boxes-contrast.php:138
+#: zip/thenoon/patterns/feature-boxes-contrast.php:168
+#: zip/thenoon/patterns/feature-boxes-contrast.php:198
+#: zip/thenoon/patterns/feature-boxes.php:46
+#: zip/thenoon/patterns/feature-boxes.php:76
+#: zip/thenoon/patterns/feature-boxes.php:106
+#: zip/thenoon/patterns/feature-boxes.php:138
+#: zip/thenoon/patterns/feature-boxes.php:168
+#: zip/thenoon/patterns/feature-boxes.php:198
 msgid "Read More"
-msgstr ""
+msgstr "Read More"
 
 #: patterns/call-to-action-card.php
 msgctxt "Pattern title"
 msgid "Call To Action Card"
-msgstr ""
+msgstr "Call To Action Card"
 
 #: patterns/call-to-action-full-width-dark.php
 msgctxt "Pattern title"
 msgid "Call-to-action full width. Dark"
-msgstr ""
+msgstr "Call-to-action full width. Dark"
 
 #: patterns/call-to-action-full-width.php
 msgctxt "Pattern title"
 msgid "Call-to-action full width."
-msgstr ""
+msgstr "Call-to-action full width."
 
 #: patterns/contact-us.php
 msgctxt "Pattern title"
 msgid "Contact Us"
-msgstr ""
+msgstr "Contact Us"
 
 #: patterns/contact-us.php:18
-#: zip/noon/patterns/contact-us.php:18
+#: zip/thenoon/patterns/contact-us.php:18
 msgid "Share Your Feedback"
-msgstr ""
+msgstr "Share Your Feedback"
 
 #: patterns/contact-us.php:19
-#: zip/noon/patterns/contact-us.php:19
+#: zip/thenoon/patterns/contact-us.php:19
 msgid "We Love Hearing from You!"
-msgstr ""
+msgstr "We Love Hearing from You!"
 
 #: patterns/contact-us.php:31
-#: zip/noon/patterns/contact-us.php:31
+#: zip/thenoon/patterns/contact-us.php:31
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #: patterns/contact-us.php:36
-#: zip/noon/patterns/contact-us.php:36
+#: zip/thenoon/patterns/contact-us.php:36
 msgid "Craving a visit? Discover our handy-dandy location and drop by for a delightful experience."
-msgstr ""
+msgstr "Craving a visit? Discover our handy-dandy location and drop by for a delightful experience."
 
 #: patterns/contact-us.php:44
-#: zip/noon/patterns/contact-us.php:44
+#: zip/thenoon/patterns/contact-us.php:44
 msgid "199 North Baronial St. Dorchester Center"
-msgstr ""
+msgstr "199 North Baronial St. Dorchester Center"
 
 #: patterns/contact-us.php:52
-#: zip/noon/patterns/contact-us.php:52
+#: zip/thenoon/patterns/contact-us.php:52
 msgid "Email Address"
-msgstr ""
+msgstr "Email Address"
 
 #: patterns/contact-us.php:56
-#: zip/noon/patterns/contact-us.php:56
+#: zip/thenoon/patterns/contact-us.php:56
 msgid "Got a question? We're here to help! Send us a message and we'll get back to you soon."
-msgstr ""
+msgstr "Got a question? We're here to help! Send us a message and we'll get back to you soon."
 
 #: patterns/contact-us.php:72
-#: zip/noon/patterns/contact-us.php:72
+#: zip/thenoon/patterns/contact-us.php:72
 msgid "Phone Numbers"
-msgstr ""
+msgstr "Phone Numbers"
 
 #: patterns/contact-us.php:76
-#: zip/noon/patterns/contact-us.php:76
+#: zip/thenoon/patterns/contact-us.php:76
 msgid "Looking for someone to talk to? Reach out to us at our dedicated helpline and we'll lend an ear."
-msgstr ""
+msgstr "Looking for someone to talk to? Reach out to us at our dedicated helpline and we'll lend an ear."
 
 #: patterns/faq-with-columns.php
 msgctxt "Pattern title"
 msgid "FAQ With Columns"
-msgstr ""
+msgstr "FAQ With Columns"
 
 #: patterns/faq-with-columns.php:18
 #: patterns/faq.php:17
-#: zip/noon/patterns/faq-with-columns.php:18
-#: zip/noon/patterns/faq.php:17
+#: zip/thenoon/patterns/faq-with-columns.php:18
+#: zip/thenoon/patterns/faq.php:17
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Frequently Asked Questions"
 
 #: patterns/faq.php
 msgctxt "Pattern title"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: patterns/faq.php:22
-#: zip/noon/patterns/faq.php:22
+#: zip/thenoon/patterns/faq.php:22
 msgid "What is Full Site Editing?"
-msgstr ""
+msgstr "What is Full Site Editing?"
 
 #: patterns/faq.php:26
-#: zip/noon/patterns/faq.php:26
+#: zip/thenoon/patterns/faq.php:26
 msgid "Full Site Editing (FSE) is a feature in WordPress that allows users to visually design and customize their entire website, including the header, footer, and other template parts."
-msgstr ""
+msgstr "Full Site Editing (FSE) is a feature in WordPress that allows users to visually design and customize their entire website, including the header, footer, and other template parts."
 
 #: patterns/faq.php:36
-#: zip/noon/patterns/faq.php:36
+#: zip/thenoon/patterns/faq.php:36
 msgid "What are some benefits of using Full Site Editing?"
-msgstr ""
+msgstr "What are some benefits of using Full Site Editing?"
 
 #: patterns/faq.php:40
-#: zip/noon/patterns/faq.php:40
+#: zip/thenoon/patterns/faq.php:40
 msgid "Full Site Editing provides a more user-friendly, streamlined approach to website design and customization. It allows users to see changes in real-time, provides more control over design elements, and enables developers to create more custom blocks and templates."
-msgstr ""
+msgstr "Full Site Editing provides a more user-friendly, streamlined approach to website design and customization. It allows users to see changes in real-time, provides more control over design elements, and enables developers to create more custom blocks and templates."
 
 #: patterns/faq.php:50
-#: zip/noon/patterns/faq.php:50
+#: zip/thenoon/patterns/faq.php:50
 msgid "Can I use Full Site Editing on my existing WordPress website?"
-msgstr ""
+msgstr "Can I use Full Site Editing on my existing WordPress website?"
 
 #: patterns/faq.php:54
-#: zip/noon/patterns/faq.php:54
+#: zip/thenoon/patterns/faq.php:54
 msgid "Yes, you can use Full Site Editing on an existing WordPress website by installing a compatible theme that supports the feature."
-msgstr ""
+msgstr "Yes, you can use Full Site Editing on an existing WordPress website by installing a compatible theme that supports the feature."
 
 #: patterns/faq.php:64
-#: zip/noon/patterns/faq.php:64
+#: zip/thenoon/patterns/faq.php:64
 msgid "Do I need to know how to code to use Full Site Editing?"
-msgstr ""
+msgstr "Do I need to know how to code to use Full Site Editing?"
 
 #: patterns/faq.php:68
-#: zip/noon/patterns/faq.php:68
+#: zip/thenoon/patterns/faq.php:68
 msgid "No, Full Site Editing does not require knowledge of coding or web development. The drag-and-drop interface and pre-designed templates make it easy for users to create a professional-looking website without any coding experience."
-msgstr ""
+msgstr "No, Full Site Editing does not require knowledge of coding or web development. The drag-and-drop interface and pre-designed templates make it easy for users to create a professional-looking website without any coding experience."
 
 #: patterns/feature-boxes-contrast.php
 msgctxt "Pattern title"
 msgid "Feature Boxes Contrast"
-msgstr ""
+msgstr "Feature Boxes Contrast"
 
 #: patterns/feature-boxes-contrast.php:18
 #: patterns/feature-boxes.php:18
 #: patterns/image-and-text-and-columns.php:28
-#: zip/noon/patterns/feature-boxes-contrast.php:18
-#: zip/noon/patterns/feature-boxes.php:18
-#: zip/noon/patterns/image-and-text-and-columns.php:28
+#: zip/thenoon/patterns/feature-boxes-contrast.php:18
+#: zip/thenoon/patterns/feature-boxes.php:18
+#: zip/thenoon/patterns/image-and-text-and-columns.php:28
 msgid "Section Title Goes Here"
-msgstr ""
+msgstr "Section Title Goes Here"
 
 #: patterns/feature-boxes-contrast.php:22
 #: patterns/feature-boxes.php:22
 #: patterns/image-and-text-and-columns.php:32
 #: patterns/team-members.php:22
-#: zip/noon/patterns/feature-boxes-contrast.php:22
-#: zip/noon/patterns/feature-boxes.php:22
-#: zip/noon/patterns/image-and-text-and-columns.php:32
-#: zip/noon/patterns/team-members.php:22
+#: zip/thenoon/patterns/feature-boxes-contrast.php:22
+#: zip/thenoon/patterns/feature-boxes.php:22
+#: zip/thenoon/patterns/image-and-text-and-columns.php:32
+#: zip/thenoon/patterns/team-members.php:22
 msgid "Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . "
-msgstr ""
+msgstr "Contrary to popular belief, Lorem Ipsum is not simply random text . It has roots in a piece of classical Latin literature from 45 BC over 2000 years . "
 
 #: patterns/feature-boxes-contrast.php:31
 #: patterns/feature-boxes-contrast.php:61
@@ -367,18 +364,18 @@ msgstr ""
 #: patterns/feature-icon-boxe.php:31
 #: patterns/feature-icon-boxe.php:53
 #: patterns/feature-icon-boxe.php:75
-#: zip/noon/patterns/feature-boxes-contrast.php:31
-#: zip/noon/patterns/feature-boxes-contrast.php:61
-#: zip/noon/patterns/feature-boxes-contrast.php:91
-#: zip/noon/patterns/feature-boxes-contrast.php:123
-#: zip/noon/patterns/feature-boxes-contrast.php:153
-#: zip/noon/patterns/feature-boxes-contrast.php:183
-#: zip/noon/patterns/feature-boxes.php:31
-#: zip/noon/patterns/feature-icon-boxe.php:31
-#: zip/noon/patterns/feature-icon-boxe.php:53
-#: zip/noon/patterns/feature-icon-boxe.php:75
+#: zip/thenoon/patterns/feature-boxes-contrast.php:31
+#: zip/thenoon/patterns/feature-boxes-contrast.php:61
+#: zip/thenoon/patterns/feature-boxes-contrast.php:91
+#: zip/thenoon/patterns/feature-boxes-contrast.php:123
+#: zip/thenoon/patterns/feature-boxes-contrast.php:153
+#: zip/thenoon/patterns/feature-boxes-contrast.php:183
+#: zip/thenoon/patterns/feature-boxes.php:31
+#: zip/thenoon/patterns/feature-icon-boxe.php:31
+#: zip/thenoon/patterns/feature-icon-boxe.php:53
+#: zip/thenoon/patterns/feature-icon-boxe.php:75
 msgid "Easy Customization"
-msgstr ""
+msgstr "Easy Customization"
 
 #: patterns/feature-boxes-contrast.php:35
 #: patterns/feature-boxes-contrast.php:65
@@ -386,277 +383,283 @@ msgstr ""
 #: patterns/feature-boxes-contrast.php:127
 #: patterns/feature-boxes-contrast.php:157
 #: patterns/feature-boxes-contrast.php:187
-#: zip/noon/patterns/feature-boxes-contrast.php:35
-#: zip/noon/patterns/feature-boxes-contrast.php:65
-#: zip/noon/patterns/feature-boxes-contrast.php:95
-#: zip/noon/patterns/feature-boxes-contrast.php:127
-#: zip/noon/patterns/feature-boxes-contrast.php:157
-#: zip/noon/patterns/feature-boxes-contrast.php:187
+#: zip/thenoon/patterns/feature-boxes-contrast.php:35
+#: zip/thenoon/patterns/feature-boxes-contrast.php:65
+#: zip/thenoon/patterns/feature-boxes-contrast.php:95
+#: zip/thenoon/patterns/feature-boxes-contrast.php:127
+#: zip/thenoon/patterns/feature-boxes-contrast.php:157
+#: zip/thenoon/patterns/feature-boxes-contrast.php:187
 msgid "Add your splash of colors, pick your header, choose your favorite font — all with a few quick clicks. No coding skills required."
-msgstr ""
+msgstr "Add your splash of colors, pick your header, choose your favorite font — all with a few quick clicks. No coding skills required."
 
 #: patterns/feature-boxes.php
 msgctxt "Pattern title"
 msgid "Feature Boxes"
-msgstr ""
+msgstr "Feature Boxes"
 
 #: patterns/feature-boxes.php:35
 #: patterns/feature-icon-boxe.php:35
 #: patterns/feature-icon-boxe.php:57
 #: patterns/feature-icon-boxe.php:79
-#: zip/noon/patterns/feature-boxes.php:35
-#: zip/noon/patterns/feature-icon-boxe.php:35
-#: zip/noon/patterns/feature-icon-boxe.php:57
-#: zip/noon/patterns/feature-icon-boxe.php:79
+#: zip/thenoon/patterns/feature-boxes.php:35
+#: zip/thenoon/patterns/feature-icon-boxe.php:35
+#: zip/thenoon/patterns/feature-icon-boxe.php:57
+#: zip/thenoon/patterns/feature-icon-boxe.php:79
 msgid "Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look."
-msgstr ""
+msgstr "Customize your style with a few clicks. No coding expertise needed, choose your header, apply colors and select your favorite font to create a unique look."
 
 #: patterns/feature-boxes.php:61
-#: zip/noon/patterns/feature-boxes.php:61
+#: zip/thenoon/patterns/feature-boxes.php:61
 msgid "Multiple Header Styles"
-msgstr ""
+msgstr "Multiple Header Styles"
 
 #: patterns/feature-icon-boxe.php
 msgctxt "Pattern title"
 msgid "Feature Icon Boxe"
-msgstr ""
+msgstr "Feature Icon Boxe"
 
 #: patterns/featured-logos.php
 msgctxt "Pattern title"
 msgid "Featured logos"
-msgstr ""
+msgstr "Featured logos"
 
 #: patterns/footer-base-with-shadow.php
 msgctxt "Pattern title"
 msgid "footer base with shadow."
-msgstr ""
+msgstr "footer base with shadow."
 
 #: patterns/footer-base.php
 msgctxt "Pattern title"
 msgid "footer base."
-msgstr ""
+msgstr "footer base."
 
 #: patterns/footer-centered-base.php
 msgctxt "Pattern title"
 msgid "footer centered base."
-msgstr ""
+msgstr "footer centered base."
 
 #: patterns/footer-centered-contrast.php
 msgctxt "Pattern title"
 msgid "footer centered contrast."
-msgstr ""
+msgstr "footer centered contrast."
 
 #: patterns/footer-contrast.php
 msgctxt "Pattern title"
 msgid "footer Contrast"
-msgstr ""
+msgstr "footer Contrast"
 
 #: patterns/footer-default.php
 msgctxt "Pattern title"
 msgid "footer default."
-msgstr ""
+msgstr "footer default."
 
 #: patterns/footer-minimal-base.php
 msgctxt "Pattern title"
 msgid "footer minimal base."
-msgstr ""
+msgstr "footer minimal base."
 
 #: patterns/footer-minimal-contrast.php
 msgctxt "Pattern title"
 msgid "footer minimal contrast."
-msgstr ""
+msgstr "footer minimal contrast."
 
 #: patterns/general-pricing-four-columns.php
 msgctxt "Pattern title"
 msgid "Pricing table with heading, list, buttons."
-msgstr ""
+msgstr "Pricing table with heading, list, buttons."
 
 #: patterns/general-testimonials-boxed.php
 msgctxt "Pattern title"
 msgid "Boxed Testimonials."
-msgstr ""
+msgstr "Boxed Testimonials."
 
 #: patterns/general-testimonials-creative.php
 msgctxt "Pattern title"
 msgid "Creative Testimonials."
-msgstr ""
+msgstr "Creative Testimonials."
 
 #: patterns/general-testimonials.php
 msgctxt "Pattern title"
 msgid "Testimonials."
-msgstr ""
+msgstr "Testimonials."
 
 #: patterns/header-default.php
 msgctxt "Pattern title"
 msgid "header default"
-msgstr ""
+msgstr "header default"
 
 #: patterns/hero-call-to-action-buttons.php
 msgctxt "Pattern title"
 msgid "Hero Call To Action Buttons"
-msgstr ""
+msgstr "Hero Call To Action Buttons"
 
 #: patterns/hero-call-to-action-buttons.php:20
-#: zip/noon/patterns/hero-call-to-action-buttons.php:20
+#: zip/thenoon/patterns/hero-call-to-action-buttons.php:20
 msgid "Skip the Code"
-msgstr ""
+msgstr "Skip the Code"
 
 #: patterns/hero-call-to-action-buttons.php:24
-#: zip/noon/patterns/hero-call-to-action-buttons.php:24
+#: zip/thenoon/patterns/hero-call-to-action-buttons.php:24
 msgid "Build Your Site with Simple Clicks"
-msgstr ""
+msgstr "Build Your Site with Simple Clicks"
 
 #: patterns/hero-call-to-action-buttons.php:29
-#: zip/noon/patterns/hero-call-to-action-buttons.php:29
+#: zip/thenoon/patterns/hero-call-to-action-buttons.php:29
 msgid "Craft stunning, customizable websites with WordPress Site Editor and Noon block theme. No coding needed!"
-msgstr ""
+msgstr "Craft stunning, customizable websites with WordPress Site Editor and Noon block theme. No coding needed!"
 
 #: patterns/hero-call-to-action-buttons.php:36
-#: zip/noon/patterns/hero-call-to-action-buttons.php:36
+#: zip/thenoon/patterns/hero-call-to-action-buttons.php:36
 msgid "Download Noon"
-msgstr ""
+msgstr "Download Noon"
 
 #: patterns/hero-start.php
 msgctxt "Pattern title"
 msgid "Hero Start"
-msgstr ""
+msgstr "Hero Start"
 
 #: patterns/hero-video.php
 msgctxt "Pattern title"
 msgid "Hero Video"
-msgstr ""
+msgstr "Hero Video"
 
 #: patterns/image-and-numbered-features.php
 msgctxt "Pattern title"
 msgid "Image and Numbered Features"
-msgstr ""
+msgstr "Image and Numbered Features"
 
 #: patterns/image-and-text-and-columns.php
 msgctxt "Pattern title"
 msgid "Image and Text and Columns"
-msgstr ""
+msgstr "Image and Text and Columns"
 
 #: patterns/page-about.php
 msgctxt "Pattern title"
 msgid "About Page"
-msgstr ""
+msgstr "About Page"
 
 #: patterns/page-about.php
 #: patterns/pricing-page.php
 msgctxt "Pattern description"
 msgid "A full page design for an About page"
-msgstr ""
+msgstr "A full page design for an About page"
 
 #: patterns/page-home.php
 msgctxt "Pattern title"
 msgid "Homepage."
-msgstr ""
+msgstr "Homepage."
 
 #: patterns/page-home.php
 msgctxt "Pattern description"
 msgid "A full page design for a Homepage"
-msgstr ""
+msgstr "A full page design for a Homepage"
 
 #: patterns/page-title-archive.php
 msgctxt "Pattern title"
 msgid "Page Title Archive"
-msgstr ""
+msgstr "Page Title Archive"
 
 #: patterns/page-title-blog.php
 msgctxt "Pattern title"
 msgid "page title blog"
-msgstr ""
+msgstr "page title blog"
 
 #: patterns/page-title-search.php
 msgctxt "Pattern title"
 msgid "Page Title Search"
-msgstr ""
+msgstr "Page Title Search"
 
 #: patterns/page-title.php
 msgctxt "Pattern title"
 msgid "page title"
-msgstr ""
+msgstr "page title"
 
 #: patterns/post-navigation.php
 msgctxt "Pattern title"
 msgid "Post navigation"
-msgstr ""
+msgstr "Post navigation"
 
 #: patterns/post-with-sidebar-footer.php
 msgctxt "Pattern title"
 msgid "Post with sidebar footer"
-msgstr ""
+msgstr "Post with sidebar footer"
 
 #: patterns/post-with-sidebar-footer.php:20
 #: patterns/post-with-sidebar-header.php:52
-#: zip/noon/patterns/post-with-sidebar-header.php:52
+#: zip/thenoon/patterns/post-with-sidebar-footer.php:20
+#: zip/thenoon/patterns/post-with-sidebar-header.php:52
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 #: patterns/post-with-sidebar-header.php
 msgctxt "Pattern title"
 msgid "Post with sidebar header"
-msgstr ""
+msgstr "Post with sidebar header"
 
 #: patterns/post-with-sidebar-header.php:34
-#: zip/noon/patterns/post-with-sidebar-header.php:34
+#: zip/thenoon/patterns/post-with-sidebar-header.php:34
 msgid "By"
-msgstr ""
+msgstr "By"
 
 #: patterns/post-with-sidebar-header.php:42
-#: zip/noon/patterns/post-with-sidebar-header.php:42
+#: zip/thenoon/patterns/post-with-sidebar-header.php:42
 msgid ",on"
-msgstr ""
+msgstr ",on"
 
 #: patterns/pricing-page.php
 msgctxt "Pattern title"
 msgid "Pricing Page"
-msgstr ""
+msgstr "Pricing Page"
 
 #: patterns/pricing-table-with-heading-list-buttons-contrast.php
 msgctxt "Pattern title"
 msgid "Pricing table with heading, list, buttons. contrast"
-msgstr ""
+msgstr "Pricing table with heading, list, buttons. contrast"
 
 #: patterns/sidebar.php
 msgctxt "Pattern title"
 msgid "Sidebar"
-msgstr ""
+msgstr "Sidebar"
 
 #: patterns/sidebar.php:18
-#: zip/noon/patterns/sidebar.php:18
+#: zip/thenoon/patterns/sidebar.php:18
 msgid "Need Assistance?"
-msgstr ""
+msgstr "Need Assistance?"
 
 #: patterns/single-testimonials.php
 msgctxt "Pattern title"
 msgid "Single Testimonials"
-msgstr ""
+msgstr "Single Testimonials"
 
 #: patterns/team-members.php
 msgctxt "Pattern title"
 msgid "Team Members"
-msgstr ""
+msgstr "Team Members"
 
 #: patterns/text-and-button-and-columns.php
 msgctxt "Pattern title"
 msgid "Text and Button and Columns"
-msgstr ""
+msgstr "Text and Button and Columns"
 
 #: patterns/text-and-image-columns-with-list.php
 msgctxt "Pattern title"
 msgid "Text and Image Columns With List"
-msgstr ""
+msgstr "Text and Image Columns With List"
 
 #: patterns/text-call-to-action.php
 msgctxt "Pattern title"
 msgid "Text Call To Action"
-msgstr ""
+msgstr "Text Call To Action"
+
+#: inc/modules/blocks/patterns.php:38
+#: zip/thenoon/inc/modules/blocks/patterns.php:38
+msgid "Noon Patterns"
+msgstr "Noon Patterns"
 
 #: styles/dark.json
 msgctxt "Style variation name"
 msgid "Dark"
-msgstr ""
+msgstr "Dark"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -668,7 +671,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Accent"
-msgstr ""
+msgstr "Accent"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -680,7 +683,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Accent Alt"
-msgstr ""
+msgstr "Accent Alt"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -692,7 +695,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Contrast 3"
-msgstr ""
+msgstr "Contrast 3"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -704,7 +707,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Contrast 2"
-msgstr ""
+msgstr "Contrast 2"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -716,7 +719,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Contrast 1"
-msgstr ""
+msgstr "Contrast 1"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -728,7 +731,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Contrast 0"
-msgstr ""
+msgstr "Contrast 0"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -740,7 +743,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Base 2"
-msgstr ""
+msgstr "Base 2"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -752,7 +755,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Base 1"
-msgstr ""
+msgstr "Base 1"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -764,7 +767,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Base 0"
-msgstr ""
+msgstr "Base 0"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -776,7 +779,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Fixed Accent Foreground"
-msgstr ""
+msgstr "Fixed Accent Foreground"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -788,7 +791,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Fixed White"
-msgstr ""
+msgstr "Fixed White"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -800,7 +803,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Fixed Dark"
-msgstr ""
+msgstr "Fixed Dark"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -812,7 +815,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Transparent"
-msgstr ""
+msgstr "Transparent"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -824,7 +827,7 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Current Color"
-msgstr ""
+msgstr "Current Color"
 
 #: styles/dark.json
 #: styles/nature.json
@@ -836,255 +839,250 @@ msgstr ""
 #: theme.json
 msgctxt "Color name"
 msgid "Inherit"
-msgstr ""
+msgstr "Inherit"
 
 #: styles/nature.json
 msgctxt "Style variation name"
 msgid "Nature"
-msgstr ""
+msgstr "Nature"
 
 #: styles/noon-light.json
 msgctxt "Style variation name"
 msgid "Noon Dark"
-msgstr ""
+msgstr "Noon Dark"
 
 #: styles/ocean.json
 msgctxt "Style variation name"
 msgid "Ocean"
-msgstr ""
+msgstr "Ocean"
 
 #: styles/pastel.json
 msgctxt "Style variation name"
 msgid "Pastel"
-msgstr ""
+msgstr "Pastel"
 
 #: styles/rtl.json
 msgctxt "Style variation name"
 msgid "RTL"
-msgstr ""
+msgstr "RTL"
 
 #: styles/rtl.json
 msgctxt "Font family name"
 msgid "heading"
-msgstr ""
+msgstr "heading"
 
 #: styles/rtl.json
 msgctxt "Font family name"
 msgid "body"
-msgstr ""
+msgstr "body"
 
 #: styles/rtl.json
 #: theme.json
 msgctxt "Font family name"
 msgid "Serif"
-msgstr ""
+msgstr "Serif"
 
 #: styles/sunset.json
 msgctxt "Style variation name"
 msgid "Sunset"
-msgstr ""
+msgstr "Sunset"
 
 #: styles/sweet-corn.json
 msgctxt "Style variation name"
 msgid "Sweet Corn"
-msgstr ""
+msgstr "Sweet Corn"
 
 #: theme.json
 msgctxt "Custom template name"
 msgid "Blank"
-msgstr ""
-
-#: theme.json
-msgctxt "Custom template name"
-msgid "No Title"
-msgstr ""
+msgstr "Blank"
 
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single + Sidebar"
-msgstr ""
+msgstr "Single + Sidebar"
 
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page [Without Title]"
-msgstr ""
+msgstr "Page [Without Title]"
 
 #: theme.json
 msgctxt "Duotone name"
 msgid "Black and White"
-msgstr ""
+msgstr "Black and White"
 
 #: theme.json
 msgctxt "Duotone name"
 msgid "Accent and White"
-msgstr ""
+msgstr "Accent and White"
 
 #: theme.json
 msgctxt "Duotone name"
 msgid "Accent alt and White"
-msgstr ""
+msgstr "Accent alt and White"
 
 #: theme.json
 msgctxt "Duotone name"
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #: theme.json
 msgctxt "Duotone name"
 msgid "vintage"
-msgstr ""
+msgstr "vintage"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Accent to Contrast"
-msgstr ""
+msgstr "Accent to Contrast"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Noon #1"
-msgstr ""
+msgstr "Noon #1"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 #: theme.json
 msgctxt "Gradient name"
 msgid "Dark"
-msgstr ""
+msgstr "Dark"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "Small"
-msgstr ""
+msgstr "Small"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "Large"
-msgstr ""
+msgstr "Large"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "Extra Large"
-msgstr ""
+msgstr "Extra Large"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "2xl"
-msgstr ""
+msgstr "2xl"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "3xl"
-msgstr ""
+msgstr "3xl"
 
 #: theme.json
 msgctxt "Space size name"
 msgid "4xl"
-msgstr ""
+msgstr "4xl"
 
 #: theme.json
 msgctxt "Font family name"
 msgid "Body"
-msgstr ""
+msgstr "Body"
 
 #: theme.json
 msgctxt "Font family name"
 msgid "Heading"
-msgstr ""
+msgstr "Heading"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-xs"
-msgstr ""
+msgstr "text-xs"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-sm"
-msgstr ""
+msgstr "text-sm"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-base"
-msgstr ""
+msgstr "text-base"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-lg"
-msgstr ""
+msgstr "text-lg"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-xl"
-msgstr ""
+msgstr "text-xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-2xl"
-msgstr ""
+msgstr "text-2xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-3xl"
-msgstr ""
+msgstr "text-3xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-4xl"
-msgstr ""
+msgstr "text-4xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-5xl"
-msgstr ""
+msgstr "text-5xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-6xl"
-msgstr ""
+msgstr "text-6xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-7xl"
-msgstr ""
+msgstr "text-7xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-8xl"
-msgstr ""
+msgstr "text-8xl"
 
 #: theme.json
 msgctxt "Font size name"
 msgid "text-9xl"
-msgstr ""
+msgstr "text-9xl"
 
 #: theme.json
 msgctxt "Template part name"
 msgid "Header"
-msgstr ""
+msgstr "Header"
 
 #: theme.json
 msgctxt "Template part name"
 msgid "Footer"
-msgstr ""
+msgstr "Footer"
 
 #: theme.json
 msgctxt "Template part name"
 msgid "Post Loop"
-msgstr ""
+msgstr "Post Loop"
 
 #: theme.json
 msgctxt "Template part name"
 msgid "Comments"
-msgstr ""
+msgstr "Comments"
 
 #: theme.json
 msgctxt "Template part name"
 msgid "Post Navigation"
-msgstr ""
+msgstr "Post Navigation"

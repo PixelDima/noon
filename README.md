@@ -2,7 +2,7 @@
 
 ![Image](https://res.cloudinary.com/dvz1685md/image/upload/v1700341402/social-share-image_yjoosp.png)
 
-Noon, a fresh and vibrant WordPress block theme brought to you by [PixelDima](https://noonwp.com). Noon is designed for seamless integration with the WordPress block editor and site editor, making it easy to craft beautiful, personalized websites without the need for complex page builders or coding skills.
+Noon, a fresh and vibrant WordPress block theme brought to you by [NoonBlocks](https://noonwp.com). Noon is designed for seamless integration with the WordPress block editor and site editor, making it easy to craft beautiful, personalized websites without the need for complex page builders or coding skills.
 
 With a collection of over 40+ stunning patterns, page templates, block styles, and variations, Noon empowers you to design eye-catching pages effortlessly using a simple drag-and-drop interface. Fast, customizable via the WordPress UI, and fully responsive from the get-go, Noon ensures top-notch performance, scoring 100% across all performance metrics.
 

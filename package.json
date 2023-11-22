@@ -2,6 +2,13 @@
     "name": "thenoon",
     "private": true,
     "version": "1.0.0",
+    "description": "The Noon is a Block WordPress theme",
+    "author": {
+        "email": "contact@noonwp.comp",
+        "name": "NoonWP",
+        "url": "https://noonwp.com"
+    },
+    "license": "GPL-3.0",
     "prettier": "@wordpress/prettier-config",
     "dependencies": {
         "@wordpress/postcss-plugins-preset": "^4.30.0",
@@ -49,7 +56,7 @@
     },
     "scripts": {
         "dev": "wp-scripts start",
-        "build": "tsc && wp-scripts build",
+        "build": "tsc && wp-scripts build && pnpm wp:lang",
         "wp:format": "wp-scripts format",
         "lint:css": "wp-scripts lint-style",
         "lint:js": "wp-scripts lint-js",
@@ -58,6 +65,11 @@
         "lint:pkg-json": "wp-scripts lint-pkg-json",
         "packages-update": "wp-scripts packages-update",
         "test:e2e": "wp-scripts test-e2e",
-        "test:unit": "wp-scripts test-unit-js"
+        "test:unit": "wp-scripts test-unit-js",
+        "wp:pot:create": "wp i18n make-pot . languages/thenoon.pot",
+        "wp:ar:po:create": "msginit --input=languages/thenoon.pot --output=languages/thenoon-ar.po --no-translator",
+        "wp:ar:mo": "msgfmt languages/thenoon-ar.po -o languages/thenoon-ar.mo",
+        "wp:ar:po:update": "wp i18n update-po languages/thenoon.pot && pnpm wp:ar:mo",
+        "wp:lang": "pnpm wp:pot:create && pnpm wp:ar:po:update"
     }
 }

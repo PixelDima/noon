@@ -1,16 +1,16 @@
 {
 	"name": "dima/noon",
-	"description": "A WordPress block theme by PixelDima",
+	"description": "A WordPress block theme by NoonBlock",
 	"type": "library",
 	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
 			"name": "Adel Tahri",
-			"email": "contact@pixeldima.com"
+			"email": "contact@noonwp.com"
 		},
 		{
 			"name": "Ahmad",
-			"email": "contact@pixeldima.com"
+			"email": "contact@noonwp.com"
 		}
 	],
 	"require": {

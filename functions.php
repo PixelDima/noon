@@ -3,11 +3,11 @@
  * This file adds functions to the Noon theme for WordPress.
  *
  * @package Noon
- * @author  PixelDima
+ * @author  NoonBlock
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  */
 
-define( 'NOON_VERSION', '0.1.2' );
+define( 'NOON_VERSION', '1.0.0' );
 define( 'NOON_MINIMUM_WP_VERSION', '5.4' );
 define( 'NOON_MINIMUM_PHP_VERSION', '7.0' );
 
